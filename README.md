@@ -45,6 +45,14 @@ All code is contained in `Pokemon_Attack_Analysis.R`, and the key visualizations
 - **Sampled Histogram** (`attack-sample.png`): Distribution of 200 random draws of Attack.  
 - **Sample Summary**: Sample mean & SD reported, with discussion of sampling error.
 
+<p align="center">
+  <img src="img/1.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="img/2.png" width="100%" />
+</p>
+
 ---
 
 ## Prerequisites
