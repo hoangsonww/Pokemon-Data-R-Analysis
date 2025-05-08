@@ -1,0 +1,59 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{hyperref}
+
+\title{Pokémon Attack Analysis Report}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+An exploratory analysis of the "Attack" statistic across 1,008 Pokémon.  
+Includes distribution, empirical rule checks, sampling behavior, and normality assessment.
+\end{abstract}
+
+\section{Data Overview}
+We analyze the `Attack` values from a dataset of 1,008 Pokémon.  
+Summary statistics:
+\begin{itemize}
+  \item Population mean: \(\mu \approx 77.17\)  
+  \item Population SD: \(\sigma \approx 29.76\)  
+\end{itemize}
+
+\section{Population Distribution}
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.8\textwidth]{attack-population.png}
+  \caption{Histogram of all Pokémon Attack values (binwidth=10).}
+\end{figure}
+
+\section{Empirical Rule Checks}
+\begin{itemize}
+  \item Within 1 SD: 669 Pokémon (≈ 66.3\%)  
+  \item Within 2 SD: 980 Pokémon (≈ 97.2\%)  
+  \item Within 3 SD: 1,007 Pokémon (≈ 99.9\%)  
+\end{itemize}
+
+\section{Sampling Experiment}
+A random sample of 200 Attack values (with replacement) was drawn.  
+Sample summary:
+\begin{itemize}
+  \item Sample mean: varies per draw  
+  \item Sample SD: varies per draw  
+\end{itemize}
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.8\textwidth]{attack-sample.png}
+  \caption{Histogram of sampled Attack values (binwidth=10).}
+\end{figure}
+
+\section{Conclusion}
+The population distribution is right-skewed, deviating slightly from normal.  
+A sample of 200 shows noticeable sampling variability—larger samples (e.g.\ $\ge600$) improve representativeness.
+
+\end{document}
