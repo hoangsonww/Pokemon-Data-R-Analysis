@@ -1,0 +1,133 @@
+---
+title: "Pokémon Attack Analysis"
+author: "David Nguyen"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    code_folding: hide
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo       = TRUE,
+  warning    = FALSE,
+  message    = FALSE,
+  fig.width  = 8,
+  fig.height = 5
+)
+# Install & load required packages
+pkgs <- c("ggplot2","dplyr")
+for(pkg in pkgs) if(!requireNamespace(pkg, quietly=TRUE)) install.packages(pkg)
+lapply(pkgs, library, character.only=TRUE)
+
+# Define color palette
+cbPalette <- c("#E69F00","#009E73","#F0E442","#0072B2","#D55E00","#CC79A7")
+````
+
+# 1. Introduction
+
+This report explores the **Attack** statistic across **1,008 Pokémon** from the `pokemon.csv` dataset. We will:
+
+1. Visualize the population distribution of Attack values.
+2. Compute population mean and standard deviation.
+3. Count how many Pokémon fall within 1, 2, and 3 standard deviations.
+4. Assess normality by comparing to the empirical rule (68–95–99.7).
+5. Draw a random sample of 200 Attack values (with replacement), visualize and summarize it.
+6. Discuss sampling accuracy and recommendations.
+
+# 2. Data Loading
+
+```{r load-data}
+pokemon <- read.csv("pokemon.csv")
+cat("Total Pokémon:", nrow(pokemon), "\n")
+head(pokemon)
+```
+
+# 3. Population Distribution
+
+```{r pop-histogram}
+meanAttack <- mean(pokemon$Attack)
+sdAttack   <- sd(pokemon$Attack)
+
+p_pop <- ggplot(pokemon, aes(Attack)) +
+  geom_histogram(binwidth = 10, fill = cbPalette[6], color = "black") +
+  labs(
+    title = "Distribution of Pokémon Attack Values",
+    x     = "Attack",
+    y     = "Frequency"
+  ) +
+  theme_minimal()
+print(p_pop)
+
+# Save
+ggsave("attack-population.png", p_pop, width=8, height=5)
+```
+
+# 4. Population Summary
+
+```{r pop-summary}
+cat("Population Mean Attack:", round(meanAttack, 2), "\n")
+cat("Population SD Attack:  ", round(sdAttack,   2), "\n")
+
+# Empirical rule counts
+within1 <- pokemon %>% filter(Attack > meanAttack - sdAttack, Attack < meanAttack + sdAttack) %>% nrow()
+within2 <- pokemon %>% filter(Attack > meanAttack - 2*sdAttack, Attack < meanAttack + 2*sdAttack) %>% nrow()
+within3 <- pokemon %>% filter(Attack > meanAttack - 3*sdAttack, Attack < meanAttack + 3*sdAttack) %>% nrow()
+
+cat("Within 1 SD:", within1, sprintf("(%0.1f%%)", within1 / nrow(pokemon) * 100), "\n")
+cat("Within 2 SD:", within2, sprintf("(%0.1f%%)", within2 / nrow(pokemon) * 100), "\n")
+cat("Within 3 SD:", within3, sprintf("(%0.1f%%)", within3 / nrow(pokemon) * 100), "\n")
+```
+
+# 5. Normality Assessment
+
+Based on the histogram and empirical proportions (≈66.3% within 1 SD vs. 68% expected), the Attack distribution is **slightly right-skewed** and deviates modestly from a perfect normal distribution.
+
+# 6. Sampling Experiment
+
+```{r sampling}
+set.seed(123)
+sampleAttack <- sample(pokemon$Attack, 200, replace = TRUE)
+meanSample    <- mean(sampleAttack)
+sdSample      <- sd(sampleAttack)
+
+# Histogram of sample
+p_samp <- ggplot(data.frame(Attack=sampleAttack), aes(Attack)) +
+  geom_histogram(binwidth = 10, fill = cbPalette[6], color = "black") +
+  labs(
+    title = "Distribution of Sampled Pokémon Attack Values (n=200)",
+    x     = "Attack",
+    y     = "Frequency"
+  ) +
+  theme_minimal()
+print(p_samp)
+ggsave("attack-sample.png", p_samp, width=8, height=5)
+
+# Sample summary
+cat("Sample Mean Attack:", round(meanSample, 2), "\n")
+cat("Sample SD Attack:  ", round(sdSample,   2), "\n")
+```
+
+# 7. Sampling Accuracy
+
+The sample mean and SD differ from the population values, reflecting sampling variability. A **larger sample** (e.g., 600+) would reduce this error and better approximate the true distribution.
+
+# 8. Conclusions
+
+* The Attack stat exhibits a right skew and modest deviations from normality.
+* Empirical rule proportions (66.3% within 1 SD) are close to theoretical expectations.
+* A sample of 200 provides a rough estimate but shows noticeable variability—consider larger samples for greater accuracy.
+
+# 9. Future Work
+
+* Repeat this analysis for other stats (Defense, HP, etc.).
+* Conduct formal normality tests (Shapiro–Wilk).
+* Explore stratified sampling by Pokémon generation or type.
+
+# 10. References
+
+* Pokémon dataset: `pokemon.csv`
+* R packages: `ggplot2`, `dplyr`
