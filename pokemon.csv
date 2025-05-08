@@ -1,0 +1,1009 @@
+﻿Number,Name,IPA,Evolves from,Evolves into,Total evolutionary stages,Evolutionary stage code,Baby,Legendary,Types,Weight lb,Height in,Percentage male,Percentage female,HP,Attack,Defense,Special Attack,Special Defense,Speed,Total Power
+1,Bulbasaur,ˈbʊlbəsɔːɹ,,Ivysaur,3,3a,FALSE,FALSE,"Grass, Poison",15.2,28,87.5,12.5,45,49,49,65,65,45,318
+2,Ivysaur,ˈaɪviːsɔːɹ,Bulbasaur,Venusaur,3,3b,FALSE,FALSE,"Grass, Poison",28.7,39,87.5,12.5,60,62,63,80,80,60,405
+3,Venusaur,ˈviːnəsɔːɹ,Ivysaur,,3,3c,FALSE,FALSE,"Grass, Poison",220.5,79,87.5,12.5,80,82,83,100,100,80,525
+4,Charmander,ˈtʃɑːɹmændɚ,,Charmeleon,3,3a,FALSE,FALSE,Fire,18.7,24,87.5,12.5,39,52,43,60,50,65,309
+5,Charmeleon,tʃɑːɹˈmiːljən,Charmander,Charizard,3,3b,FALSE,FALSE,Fire,41.9,43,87.5,12.5,58,64,58,80,65,80,405
+6,Charizard,ˈtʃɑːɹɪzɑːɹd,Charmeleon,,3,3c,FALSE,FALSE,"Fire, Flying",199.5,67,87.5,12.5,78,84,78,109,85,100,534
+7,Squirtle,ˈskwɝːɾəl,,Wartortle,3,3a,FALSE,FALSE,Water,19.8,20,87.5,12.5,44,48,65,50,64,43,314
+8,Wartortle,ˈwɔːɹtɔːɹɾəl,Squirtle,Blastoise,3,3b,FALSE,FALSE,Water,49.6,39,87.5,12.5,59,63,80,65,80,58,405
+9,Blastoise,ˈblæstɔɪs,Wartortle,,3,3c,FALSE,FALSE,Water,188.5,63,87.5,12.5,79,83,100,85,105,78,530
+10,Caterpie,ˈkæɾɚpiː,,Metapod,3,3a,FALSE,FALSE,Bug,6.4,12,50,50,45,30,35,20,20,45,195
+11,Metapod,ˈmɛɾəpɑːd,Caterpie,Butterfree,3,3b,FALSE,FALSE,Bug,21.8,28,50,50,50,20,55,25,25,30,205
+12,Butterfree,ˈbʌɾɚfɹiː,Metapod,,3,3c,FALSE,FALSE,"Bug, Flying",70.5,43,50,50,60,45,50,80,80,70,385
+13,Weedle,ˈwiːdəl,,Kakuna,3,3a,FALSE,FALSE,"Bug, Poison",7.1,12,50,50,40,35,30,20,20,50,195
+14,Kakuna,kəˈkuːnə,Weedle,Beedrill,3,3b,FALSE,FALSE,"Bug, Poison",22,24,50,50,45,25,50,25,25,35,205
+15,Beedrill,ˈbiːdɹɪl,Kakuna,,3,3c,FALSE,FALSE,"Bug, Poison",65,39,50,50,65,80,40,45,80,75,385
+16,Pidgey,ˈpɪdʒiː,,Pidgeotto,3,3a,FALSE,FALSE,"Normal, Flying",4,12,50,50,40,45,40,35,35,56,251
+17,Pidgeotto,ˌpɪdʒiːˈoʊɾoʊ,Pidgey,Pidgeot,3,3b,FALSE,FALSE,"Normal, Flying",66.1,43,50,50,63,60,55,50,50,71,349
+18,Pidgeot,ˈpɪdʒiːɑːt,Pidgeotto,,3,3c,FALSE,FALSE,"Normal, Flying",87.1,59,50,50,83,80,75,70,70,91,469
+19,Rattata,ɹəˈtæɾə,,Raticate,2,2a,FALSE,FALSE,"Dark, Normal, Normal",7.7,12,50,50,30,56,35,25,35,72,253
+20,Raticate,ˈɹæɾɪkeɪt,Rattata,,2,2b,FALSE,FALSE,"Dark, Normal, Normal",40.8,28,50,50,55,81,60,50,70,97,413
+21,Spearow,ˈspɪɹoʊ,,Fearow,2,2a,FALSE,FALSE,"Normal, Flying",4.4,12,50,50,40,60,30,31,31,70,262
+22,Fearow,ˈfɪɹoʊ,Spearow,,2,2b,FALSE,FALSE,"Normal, Flying",83.8,47,50,50,65,90,65,61,61,100,442
+23,Ekans,ˈɛkənz,,Arbok,2,2a,FALSE,FALSE,Poison,15.2,79,50,50,35,60,44,40,54,55,288
+24,Arbok,ˈɑːɹbɑːk,Ekans,,2,2b,FALSE,FALSE,Poison,143.3,138,50,50,60,85,69,65,79,80,438
+25,Pikachu,ˈpiːkətʃuː,Pichu,Raichu,3,3b,FALSE,FALSE,Electric,13.2,16,50,50,35,55,30,50,40,90,300
+26,Raichu,ˈɹaɪtʃuː,Pikachu,,3,3c,FALSE,FALSE,"Electric, Psychic, Electric",66.1,31,50,50,60,90,55,90,80,100,475
+27,Sandshrew,ˈsændʃɹuː,,Sandslash,2,2a,FALSE,FALSE,"Ice, Steel, Ground",26.5,24,50,50,50,75,85,20,30,40,300
+28,Sandslash,ˈsændslæʃ,Sandshrew,,2,2b,FALSE,FALSE,"Ice, Steel, Ground",65,39,50,50,75,100,110,45,55,65,450
+29,Nidoran♀,ˈniːdoʊɹæn (ˈfiːmeɪl),,Nidorina,3,3a,FALSE,FALSE,Poison,15.4,16,0,,55,47,52,40,40,41,275
+30,Nidorina,ˌniːdoʊˈɹiːnə,Nidoran♀,Nidoqueen,3,3b,FALSE,FALSE,Poison,44.1,31,0,,70,62,67,55,55,56,365
+31,Nidoqueen,ˈniːdoʊkwiːn,Nidorina,,3,3c,FALSE,FALSE,"Poison, Ground",132.3,51,0,,90,82,87,75,85,76,495
+32,Nidoran♂,ˈniːdoʊɹæn (ˈmeɪl),,Nidorino,3,3a,FALSE,FALSE,Poison,19.8,20,,0,46,57,40,40,40,50,273
+33,Nidorino,ˌniːdoʊˈɹiːnoʊ,Nidoran♂,Nidoking,3,3b,FALSE,FALSE,Poison,43,35,,0,61,72,57,55,55,65,365
+34,Nidoking,ˈniːdoʊkɪŋ,Nidorino,,3,3c,FALSE,FALSE,"Poison, Ground",136.7,55,,0,81,92,77,85,75,85,495
+35,Clefairy,klɛˈfɛɹiː,Cleffa,Clefable,3,3b,FALSE,FALSE,Fairy,16.5,24,25,75,70,45,48,60,65,35,323
+36,Clefable,klɛˈfeɪbəl,Clefairy,,3,3c,FALSE,FALSE,Fairy,88.2,51,25,75,95,70,73,85,90,60,473
+37,Vulpix,ˈvʊlpɪks,,Ninetales,2,2a,FALSE,FALSE,"Fire,, Ice",21.8,24,25,75,38,41,40,50,65,65,299
+38,Ninetales,ˈnaɪnteɪlz,Vulpix,,2,2b,FALSE,FALSE,"Ice, Fairy, Fire",43.9,43,25,75,73,76,75,81,100,100,505
+39,Jigglypuff,ˈdʒɪɡliːpʌf,Igglybuff,Wigglytuff,3,3b,FALSE,FALSE,"Normal, Fairy",12.1,20,25,75,115,45,20,45,25,20,270
+40,Wigglytuff,ˈwɪɡliːtʌf,Jigglypuff,,3,3c,FALSE,FALSE,"Normal, Fairy",26.5,39,25,75,140,70,45,75,50,45,425
+41,Zubat,ˈzuːbæt,,Golbat,3,3a,FALSE,FALSE,"Poison, Flying",16.5,31,50,50,40,45,35,30,40,55,245
+42,Golbat,ˈɡɔːlbæt,Zubat,Crobat,3,3b,FALSE,FALSE,"Poison, Flying",121.3,63,50,50,75,80,70,65,75,90,455
+43,Oddish,ˈɑːdɪʃ,,Gloom,3,3a,FALSE,FALSE,"Grass, Poison",11.9,20,50,50,45,50,55,75,65,30,320
+44,Gloom,ˈɡluːm,Oddish,"Bellossom, Vileplume",3,3b,FALSE,FALSE,"Grass, Poison",19,31,50,50,60,65,70,85,75,40,395
+45,Vileplume,ˈvaɪlpluːm,Gloom,,3,3c,FALSE,FALSE,"Grass, Poison",41,47,50,50,75,80,85,100,90,50,480
+46,Paras,ˈpɛɹəs,,Parasect,2,2a,FALSE,FALSE,"Bug, Grass",11.9,12,50,50,35,70,55,45,55,25,285
+47,Parasect,ˈpɛɹəsɛkt,Paras,,2,2b,FALSE,FALSE,"Bug, Grass",65,39,50,50,60,95,80,60,80,30,405
+48,Venonat,ˈvɛnoʊnæt,,Venomoth,2,2a,FALSE,FALSE,"Bug, Poison",66.1,39,50,50,60,55,50,40,55,45,305
+49,Venomoth,ˈvɛnoʊmɑːθ,Venonat,,2,2b,FALSE,FALSE,"Bug, Poison",27.6,59,50,50,70,65,60,90,75,90,450
+50,Diglett,ˈdɪɡlət,,Dugtrio,2,2a,FALSE,FALSE,"Ground, Steel, Ground",1.8,8,50,50,10,55,25,35,45,95,265
+51,Dugtrio,dʌɡˈtɹiːoʊ,Diglett,,2,2b,FALSE,FALSE,"Ground, Steel, Ground",73.4,28,50,50,35,80,50,50,70,120,405
+52,Meowth,miːˈaʊθ,,"Perrserker, Persian",2,2a,FALSE,FALSE,"Normal,, Dark,, Steel",9.3,16,50,50,40,45,35,40,40,90,290
+53,Persian,ˈpɝːʒən,Meowth,,2,2b,FALSE,FALSE,"Normal,, Dark",70.5,39,50,50,65,70,60,65,65,115,440
+54,Psyduck,ˈsaɪdʌk,,Golduck,2,2a,FALSE,FALSE,Water,43.2,31,50,50,50,52,48,65,50,55,320
+55,Golduck,ˈɡɔːldʌk,Psyduck,,2,2b,FALSE,FALSE,Water,168.9,67,50,50,80,82,78,95,80,85,500
+56,Mankey,ˈmæŋkiː,,Primeape,3,3a,FALSE,FALSE,Fighting,61.7,20,50,50,40,80,35,35,45,70,305
+57,Primeape,ˈpɹaɪmeɪp,Mankey,Annihilape,3,3b,FALSE,FALSE,Fighting,70.5,39,50,50,65,105,60,60,70,95,455
+58,Growlithe,ˈɡɹaʊlɪθ,,Arcanine,2,2a,FALSE,FALSE,"Fire, Rock, Fire",41.9,28,75,25,55,70,45,70,50,60,350
+59,Arcanine,ˈɑːɹkənɑɪn,Growlithe,,2,2b,FALSE,FALSE,"Fire, Rock, Fire",341.7,75,75,25,90,110,80,100,80,95,555
+60,Poliwag,ˈpɑːliːwæɡ,,Poliwhirl,3,3a,FALSE,FALSE,Water,27.3,24,50,50,40,50,40,40,40,90,300
+61,Poliwhirl,ˈpɑːliːwɝːl,Poliwag,"Politoed, Poliwrath",3,3b,FALSE,FALSE,Water,44.1,39,50,50,65,65,65,50,50,90,385
+62,Poliwrath,ˈpɑːliːɹæθ,Poliwhirl,,3,3c,FALSE,FALSE,"Water, Fighting",119,51,50,50,90,85,95,70,90,70,500
+63,Abra,ˈæbɹə,,Kadabra,3,3a,FALSE,FALSE,Psychic,43,35,75,25,25,20,15,105,55,90,310
+64,Kadabra,kəˈdæbɹə,Abra,Alakazam,3,3b,FALSE,FALSE,Psychic,124.6,51,75,25,40,35,30,120,70,105,400
+65,Alakazam,ˌæləkəˈzæm,Kadabra,,3,3c,FALSE,FALSE,Psychic,105.8,59,75,25,55,50,45,135,85,120,490
+66,Machop,məˈtʃɑːp,,Machoke,3,3a,FALSE,FALSE,Fighting,43,31,75,25,70,80,50,35,35,35,305
+67,Machoke,məˈtʃoʊk,Machop,Machamp,3,3b,FALSE,FALSE,Fighting,155.4,59,75,25,80,100,70,50,60,45,405
+68,Machamp,məˈtʃæmp,Machoke,,3,3c,FALSE,FALSE,Fighting,286.6,63,75,25,90,130,80,65,85,55,505
+69,Bellsprout,ˈbɛlspɹaʊt,,Weepinbell,3,3a,FALSE,FALSE,"Grass, Poison",8.8,28,50,50,50,75,35,70,30,40,300
+70,Weepinbell,ˈwiːpɪnbɛl,Bellsprout,Victreebel,3,3b,FALSE,FALSE,"Grass, Poison",14.1,39,50,50,65,90,50,85,45,55,390
+71,Victreebel,ˈvɪktriːbɛl,Weepinbell,,3,3c,FALSE,FALSE,"Grass, Poison",34.2,67,50,50,80,105,65,100,60,70,480
+72,Tentacool,ˈtɛntəkuːl,,Tentacruel,2,2a,FALSE,FALSE,"Water, Poison",100.3,35,50,50,40,40,35,50,100,70,335
+73,Tentacruel,ˈtɛntəkɹuːl,Tentacool,,2,2b,FALSE,FALSE,"Water, Poison",121.3,63,50,50,80,70,65,80,120,100,515
+74,Geodude,ˈdʒiːoʊduːd,,Graveler,3,3a,FALSE,FALSE,"Rock, Ground, Rock, Electric",44.1,16,50,50,40,80,100,30,30,20,300
+75,Graveler,ˈɡɹævəlɚ,Geodude,Golem,3,3b,FALSE,FALSE,"Rock, Ground, Rock, Electric",231.5,39,50,50,55,95,115,45,45,35,390
+76,Golem,ˈɡɔːləm,Graveler,,3,3c,FALSE,FALSE,"Rock, Ground, Rock, Electric",661.4,55,50,50,80,110,130,55,65,45,485
+77,Ponyta,ˈpoʊniːtɑː,,Rapidash,2,2a,FALSE,FALSE,"Fire,, Psychic",66.1,39,50,50,50,85,55,65,65,90,410
+78,Rapidash,ˈɹæpɪdæʃ,Ponyta,,2,2b,FALSE,FALSE,"Psychic, Fairy, Fire",209.4,67,50,50,65,100,70,80,80,105,500
+79,Slowpoke,ˈsloʊpoʊk,,"Slowking, Slowbro",2,2a,FALSE,FALSE,"Water, Psychic, Psychic",79.4,47,50,50,90,65,65,40,40,15,315
+80,Slowbro,ˈsloʊbɹoʊ,Slowpoke,,2,2b,FALSE,FALSE,"Water, Psychic, Poison, Psychic",173.1,63,50,50,95,75,110,100,80,30,490
+81,Magnemite,ˈmæɡnəmaɪt,,Magneton,3,3a,FALSE,FALSE,"Electric, Steel",13.2,12,,,25,35,70,95,55,45,325
+82,Magneton,ˈmæɡnətɑːn,Magnemite,Magnezone,3,3b,FALSE,FALSE,"Electric, Steel",132.3,39,,,50,60,95,120,70,70,465
+83,Farfetch'd,ˈfɑːɹfɛtʃt,,"""Sirfetchd""",2,2a,FALSE,FALSE,"Normal, Flying, Fighting",33.1,31,50,50,52,65,55,58,62,60,352
+84,Doduo,doʊˈduːoʊ,,Dodrio,2,2a,FALSE,FALSE,"Normal, Flying",86.4,55,50,50,35,85,45,35,35,75,310
+85,Dodrio,doʊˈdɹiːoʊ,Doduo,,2,2b,FALSE,FALSE,"Normal, Flying",187.8,71,50,50,60,110,70,60,60,100,460
+86,Seel,ˈsiːl,,Dewgong,2,2a,FALSE,FALSE,Water,198.4,43,50,50,65,45,55,45,70,45,325
+87,Dewgong,ˈduːɡɑːŋ,Seel,,2,2b,FALSE,FALSE,"Water, Ice",264.6,67,50,50,90,70,80,70,95,70,475
+88,Grimer,ˈɡɹaɪmɚ,,Muk,2,2a,FALSE,FALSE,"Poison, Dark, Poison",66.1,35,50,50,80,80,50,40,50,25,325
+89,Muk,ˈmʌk,Grimer,,2,2b,FALSE,FALSE,"Poison, Dark, Poison",66.1,47,50,50,105,105,75,65,100,50,500
+90,Shellder,ˈʃɛldɚ,,Cloyster,2,2a,FALSE,FALSE,Water,8.8,12,50,50,30,65,100,45,25,40,305
+91,Cloyster,ˈklɔɪstɚ,Shellder,,2,2b,FALSE,FALSE,"Water, Ice",292.1,59,50,50,50,95,180,85,45,70,525
+92,Gastly,ˈɡæsliː,,Haunter,3,3a,FALSE,FALSE,"Ghost, Poison",0.2,51,50,50,30,35,30,100,35,80,310
+93,Haunter,ˈhɑːntɚ,Gastly,Gengar,3,3b,FALSE,FALSE,"Ghost, Poison",0.2,63,50,50,45,50,45,115,55,95,405
+94,Gengar,ˈɡɛŋɡɑːɹ,Haunter,,3,3c,FALSE,FALSE,"Ghost, Poison",89.3,59,50,50,60,65,60,130,75,110,500
+95,Onix,ˈɑːnɪks,,Steelix,2,2a,FALSE,FALSE,"Rock, Ground",463,346,50,50,35,45,160,30,45,70,385
+96,Drowzee,ˈdɹaʊziː,,Hypno,2,2a,FALSE,FALSE,Psychic,71.4,39,50,50,60,48,45,43,90,42,328
+97,Hypno,ˈhɪpnoʊ,Drowzee,,2,2b,FALSE,FALSE,Psychic,166.7,63,50,50,85,73,70,73,115,67,483
+98,Krabby,ˈkɹæbiː,,Kingler,2,2a,FALSE,FALSE,Water,14.3,16,50,50,30,105,90,25,25,50,325
+99,Kingler,ˈkɪŋlɚ,Krabby,,2,2b,FALSE,FALSE,Water,132.3,51,50,50,55,130,115,50,50,75,475
+100,Voltorb,ˈvɔːltɔːɹb,,Electrode,2,2a,FALSE,FALSE,"Electric, Grass, Electric",22.9,20,,,40,30,50,55,55,100,330
+101,Electrode,ɪˈlɛktɹoʊd,Voltorb,,2,2b,FALSE,FALSE,"Electric, Grass, Electric",146.8,47,,,60,50,70,80,80,140,480
+102,Exeggcute,ˈɛɡzəɡkjuːt,,Exeggutor,2,2a,FALSE,FALSE,"Grass, Psychic",5.5,16,50,50,60,40,80,60,45,40,325
+103,Exeggutor,ɛɡzˈɛɡjuːtɔːɹ,Exeggcute,,2,2b,FALSE,FALSE,"Grass, Psychic, Grass, Dragon",264.6,79,50,50,95,95,85,125,65,55,520
+104,Cubone,ˈkjuːboʊn,,Marowak,2,2a,FALSE,FALSE,Ground,14.3,16,50,50,50,50,95,40,50,35,320
+105,Marowak,ˈmɛɹoʊwæk,Cubone,,2,2b,FALSE,FALSE,"Fire, Ghost, Ground",99.2,39,50,50,60,80,110,50,80,45,425
+106,Hitmonlee,ˈhɪtmɑːnliː,Tyrogue,,2,2b,FALSE,FALSE,Fighting,109.8,59,,0,50,120,53,35,110,87,455
+107,Hitmonchan,ˈhɪtmɑːntʃæn,Tyrogue,,2,2b,FALSE,FALSE,Fighting,110.7,55,,0,50,105,79,35,110,76,455
+108,Lickitung,ˈlɪkɪtʌŋ,,Lickilicky,2,2a,FALSE,FALSE,Normal,144.4,47,50,50,90,55,75,60,75,30,385
+109,Koffing,ˈkɑːfɪŋ,,Weezing,2,2a,FALSE,FALSE,Poison,2.2,24,50,50,40,65,95,60,45,35,340
+110,Weezing,ˈwiːzɪŋ,Koffing,,2,2b,FALSE,FALSE,"Poison, Fairy, Poison",20.9,47,50,50,65,90,120,85,70,60,490
+111,Rhyhorn,ˈɹaɪhɔːɹn,,Rhydon,3,3a,FALSE,FALSE,"Ground, Rock",253.5,39,50,50,80,85,95,30,30,25,345
+112,Rhydon,ˈɹaɪdɑːn,Rhyhorn,Rhyperior,3,3b,FALSE,FALSE,"Ground, Rock",264.6,75,50,50,105,130,120,45,45,40,485
+113,Chansey,ˈtʃænsiː,Happiny,Blissey,3,3b,FALSE,FALSE,Normal,76.3,43,0,,250,5,5,35,105,50,450
+114,Tangela,ˈtæŋɡələ,,Tangrowth,2,2a,FALSE,FALSE,Grass,77.2,39,50,50,65,55,115,100,40,60,435
+115,Kangaskhan,ˈkæŋɡəskɑːn,,,1,1a,FALSE,FALSE,Normal,176.4,87,0,,105,95,80,40,80,90,490
+116,Horsea,ˈhɔːɹsiː,,Seadra,3,3a,FALSE,FALSE,Water,17.6,16,50,50,30,40,70,70,25,60,295
+117,Seadra,ˈsiːdɹə,Horsea,Kingdra,3,3b,FALSE,FALSE,Water,55.1,47,50,50,55,65,95,95,45,85,440
+118,Goldeen,ɡɔːlˈdiːn,,Seaking,2,2a,FALSE,FALSE,Water,33.1,0,50,50,45,67,60,35,50,63,320
+119,Seaking,ˈsiːkɪŋ,Goldeen,,2,2b,FALSE,FALSE,Water,86,51,50,50,80,92,65,65,80,68,450
+120,Staryu,ˈstɑːɹjuː,,Starmie,2,2a,FALSE,FALSE,Water,76.1,31,,,30,45,55,70,55,85,340
+121,Starmie,ˈstɑːɹmiː,Staryu,,2,2b,FALSE,FALSE,"Water, Psychic",176.4,43,,,60,75,85,100,85,115,520
+122,Mr. Mime,ˌmɪstɚˈmaɪm,Mime Jr.,Mr. Rime,3,3b,FALSE,FALSE,"Psychic, Fairy, Ice, Psychic",120.2,51,50,50,40,45,65,100,120,90,460
+123,Scyther,ˈsaɪθɚ,,"Scizor, Kleavor",2,2a,FALSE,FALSE,"Bug, Flying",123.5,59,50,50,70,110,80,55,80,105,500
+124,Jynx,ˈdʒɪŋks,Smoochum,,2,2b,FALSE,FALSE,"Ice, Psychic",89.5,55,0,,65,50,35,115,95,95,455
+125,Electabuzz,əˈlɛktəbʌz,Elekid,Electivire,3,3b,FALSE,FALSE,Electric,66.1,43,75,25,65,83,57,95,85,105,490
+126,Magmar,ˈmæɡmɑːɹ,Magby,Magmortar,3,3b,FALSE,FALSE,Fire,98.1,51,75,25,65,95,57,100,85,93,495
+127,Pinsir,ˈpɪnsɚ,,,1,1a,FALSE,FALSE,Bug,121.3,59,50,50,65,125,100,55,70,85,500
+128,Tauros,ˈtɔːɹoʊs,,,1,1a,FALSE,FALSE,"Fighting, Fire, Fighting, Water, Normal,, Fighting",194.9,55,,0,75,100,95,40,70,110,490
+129,Magikarp,ˈmædʒɪkɑːɹp,,Gyarados,2,2a,FALSE,FALSE,Water,22,35,50,50,20,10,55,15,20,80,200
+130,Gyarados,ˈɡɛɹədoʊs,Magikarp,,2,2b,FALSE,FALSE,"Water, Flying",518.1,256,50,50,95,125,79,60,100,81,540
+131,Lapras,ˈlæpɹəs,,,1,1a,FALSE,FALSE,"Water, Ice",485,98,50,50,130,85,80,85,95,60,535
+132,Ditto,ˈdɪtoʊ,,,1,1a,FALSE,FALSE,Normal,8.8,12,,,48,48,48,48,48,48,288
+133,Eevee,ˈiːviː,,"Jolteon, Espeon, Glaceon, Flareon, Sylveon, Leafeon, Umbreon, Vaporeon",2,2a,FALSE,FALSE,Normal,14.3,12,87.5,12.5,55,55,50,45,65,55,325
+134,Vaporeon,veɪˈpɔːɹiːɑːn,Eevee,,2,2b,FALSE,FALSE,Water,63.9,39,87.5,12.5,130,65,60,110,95,65,525
+135,Jolteon,ˈdʒɔːltiːɑːn,Eevee,,2,2b,FALSE,FALSE,Electric,54,31,87.5,12.5,65,65,60,110,95,130,525
+136,Flareon,ˈflɛɹiːɑːn,Eevee,,2,2b,FALSE,FALSE,Fire,55.1,35,87.5,12.5,65,130,60,95,110,65,525
+137,Porygon,ˈpɔːɹiːɡɑːn,,Porygon2,3,3a,FALSE,FALSE,Normal,80.5,0,,,65,60,70,85,75,40,395
+138,Omanyte,ˈɑːmənɑɪt,,Omastar,2,2a,FALSE,FALSE,"Rock, Water",16.5,16,87.5,12.5,35,40,100,90,55,35,355
+139,Omastar,ˈɑːməstɑːɹ,Omanyte,,2,2b,FALSE,FALSE,"Rock, Water",77.2,39,87.5,12.5,70,60,125,115,70,55,495
+140,Kabuto,kəˈbuːtoʊ,,Kabutops,2,2a,FALSE,FALSE,"Rock, Water",25.4,20,87.5,12.5,30,80,90,55,45,55,355
+141,Kabutops,ˈkɑːbuːtɑːps,Kabuto,,2,2b,FALSE,FALSE,"Rock, Water",89.3,51,87.5,12.5,60,115,105,65,70,80,495
+142,Aerodactyl,ɛɹəˈdæktəl,,,1,1a,FALSE,FALSE,"Rock, Flying",130.1,71,87.5,12.5,80,105,65,60,75,130,515
+143,Snorlax,ˈsnɔːɹlæks,Munchlax,,2,2b,FALSE,FALSE,Normal,1014.1,83,87.5,12.5,160,110,65,65,110,30,540
+144,Articuno,ˌɑːɹɾɪˈkuːnoʊ,,,1,1a,FALSE,TRUE,"Ice, Flying, Psychic, Flying",122.1,67,,,90,85,100,95,125,85,580
+145,Zapdos,ˈzæpdoʊs,,,1,1a,FALSE,TRUE,"Electric, Flying, Fighting, Flying",116,63,,,90,90,85,125,90,100,580
+146,Moltres,ˈmɔːltɹeɪs,,,1,1a,FALSE,TRUE,"Fire, Flying, Dark, Flying",132.3,79,,,90,100,90,125,85,90,580
+147,Dratini,dɹəˈtiːniː,,Dragonair,3,3a,FALSE,FALSE,Dragon,7.3,71,50,50,41,64,45,50,50,50,300
+148,Dragonair,ˈdɹæɡənɛɹ,Dratini,Dragonite,3,3b,FALSE,FALSE,Dragon,36.4,157,50,50,61,84,65,70,70,70,420
+149,Dragonite,ˈdɹæɡənaɪt,Dragonair,,3,3c,FALSE,FALSE,"Dragon, Flying",463,87,50,50,91,134,95,100,100,80,600
+150,Mewtwo,ˈmjuːtuː,,,1,1a,FALSE,TRUE,Psychic,269,79,,,106,110,90,154,90,130,680
+151,Mew,ˈmjuː,,,1,1a,FALSE,FALSE,Psychic,8.8,16,,,100,100,100,100,100,100,600
+152,Chikorita,ˌtʃɪkɔːɹˈiːɾə,,Bayleef,3,3a,FALSE,FALSE,Grass,14.1,35,87.5,12.5,45,49,65,49,65,45,318
+153,Bayleef,ˈbeɪliːf,Chikorita,Meganium,3,3b,FALSE,FALSE,Grass,34.8,47,87.5,12.5,60,62,80,63,80,60,405
+154,Meganium,məˈɡeɪniːəm,Bayleef,,3,3c,FALSE,FALSE,Grass,221.6,71,87.5,12.5,80,82,100,83,100,80,525
+155,Cyndaquil,ˈsɪndəkwɪl,,Quilava,3,3a,FALSE,FALSE,Fire,17.4,20,87.5,12.5,39,52,43,60,50,65,309
+156,Quilava,kwɪˈlɑːvə,Cyndaquil,Typhlosion,3,3b,FALSE,FALSE,Fire,41.9,35,87.5,12.5,58,64,58,80,65,80,405
+157,Typhlosion,taɪˈfloʊʒən,Quilava,,3,3c,FALSE,FALSE,"Fire, Ghost, Fire",175.3,67,87.5,12.5,78,84,78,109,85,100,534
+158,Totodile,ˈtoʊɾədaɪl,,Croconaw,3,3a,FALSE,FALSE,Water,20.9,0,87.5,12.5,50,65,64,44,48,43,314
+159,Croconaw,ˈkɹɑːkənɑː,Totodile,Feraligatr,3,3b,FALSE,FALSE,Water,55.1,43,87.5,12.5,65,80,80,59,63,58,405
+160,Feraligatr,fɚˈæləɡeɪɾɚ,Croconaw,,3,3c,FALSE,FALSE,Water,195.8,91,87.5,12.5,85,105,100,79,83,78,530
+161,Sentret,ˈsɛntɹət,,Furret,2,2a,FALSE,FALSE,Normal,13.2,31,50,50,35,46,34,35,45,20,215
+162,Furret,ˈfɝːət,Sentret,,2,2b,FALSE,FALSE,Normal,71.7,71,50,50,85,76,64,45,55,90,415
+163,Hoothoot,ˈhuːtˌhuːt,,Noctowl,2,2a,FALSE,FALSE,"Normal, Flying",46.7,28,50,50,60,30,30,36,56,50,262
+164,Noctowl,ˈnɑːktaʊl,Hoothoot,,2,2b,FALSE,FALSE,"Normal, Flying",89.9,63,50,50,100,50,50,76,96,70,442
+165,Ledyba,ˈlɛdiːbə,,Ledian,2,2a,FALSE,FALSE,"Bug, Flying",23.8,39,50,50,40,20,30,40,80,55,265
+166,Ledian,ˈlɛdiːɑːn,Ledyba,,2,2b,FALSE,FALSE,"Bug, Flying",78.5,55,50,50,55,35,50,55,110,85,390
+167,Spinarak,ˈspɪnəɹæk,,Ariados,2,2a,FALSE,FALSE,"Bug, Poison",18.7,20,50,50,40,60,40,40,40,30,250
+168,Ariados,ˈɛɹiːədoʊs,Spinarak,,2,2b,FALSE,FALSE,"Bug, Poison",73.9,0,50,50,70,90,70,60,60,40,390
+169,Crobat,ˈkɹoʊbæt,Golbat,,3,3c,FALSE,FALSE,"Poison, Flying",165.3,0,50,50,85,90,80,70,80,130,535
+170,Chinchou,ˈtʃɪntʃaʊ,,Lanturn,2,2a,FALSE,FALSE,"Water, Electric",26.5,20,50,50,75,38,38,56,56,67,330
+171,Lanturn,ˈlæntɚn,Chinchou,,2,2b,FALSE,FALSE,"Water, Electric",49.6,47,50,50,125,58,58,76,76,67,460
+172,Pichu,ˈpiːtʃu,,Pikachu,3,3a,TRUE,FALSE,Electric,4.4,12,50,50,20,40,15,35,35,60,205
+173,Cleffa,ˈklɛfə,,Clefairy,3,3a,TRUE,FALSE,Fairy,6.6,12,25,75,50,25,28,45,55,15,218
+174,Igglybuff,ˈɪɡliːbʌf,,Jigglypuff,3,3a,TRUE,FALSE,"Normal, Fairy",2.2,12,25,75,90,30,15,40,20,15,210
+175,Togepi,ˈtoʊgəpiː,,Togetic,3,3a,TRUE,FALSE,Fairy,3.3,12,87.5,12.5,35,20,65,40,65,20,245
+176,Togetic,ˈtoʊɡətɪk,Togepi,Togekiss,3,3b,FALSE,FALSE,"Fairy, Flying",7.1,24,87.5,12.5,55,40,85,80,105,40,405
+177,Natu,ˈnɑːtuː,,Xatu,2,2a,FALSE,FALSE,"Psychic, Flying",4.4,8,50,50,40,50,45,70,45,70,320
+178,Xatu,ˈzɑːtuː,Natu,,2,2b,FALSE,FALSE,"Psychic, Flying",33.1,59,50,50,65,75,70,95,70,95,470
+179,Mareep,məˈɹiːp,,Flaaffy,3,3a,FALSE,FALSE,Electric,17.2,24,50,50,55,40,40,65,45,35,280
+180,Flaaffy,ˈflæfiː,Mareep,Ampharos,3,3b,FALSE,FALSE,Electric,29.3,31,50,50,70,55,55,80,60,45,365
+181,Ampharos,ˈæmfəɹɑːs,Flaaffy,,3,3c,FALSE,FALSE,Electric,135.6,55,50,50,90,75,75,115,90,55,500
+182,Bellossom,bɛlˈɑːsəm,Gloom,,3,3c,FALSE,FALSE,Grass,12.8,16,50,50,75,80,85,90,100,50,480
+183,Marill,ˈmɛɹəl,Azurill,Azumarill,3,3b,FALSE,FALSE,"Water, Fairy",18.7,16,50,50,70,20,50,20,50,40,250
+184,Azumarill,əˈzuːməɹɪl,Marill,,3,3c,FALSE,FALSE,"Water, Fairy",62.8,31,50,50,100,50,80,50,80,50,410
+185,Sudowoodo,ˌsuːdoʊˈwuːdoʊ,Bonsly,,2,2b,FALSE,FALSE,Rock,83.8,47,50,50,70,100,115,30,65,30,410
+186,Politoed,ˈpɑːliːtoʊd,Poliwhirl,,3,3c,FALSE,FALSE,Water,74.7,43,50,50,90,75,75,90,100,70,500
+187,Hoppip,ˈhɑːpɪp,,Skiploom,3,3a,FALSE,FALSE,"Grass, Flying",1.1,16,50,50,35,35,40,35,55,50,250
+188,Skiploom,ˈskɪpluːm,Hoppip,Jumpluff,3,3b,FALSE,FALSE,"Grass, Flying",2.2,24,50,50,55,45,50,45,65,80,340
+189,Jumpluff,ˈdʒʌmplʌf,Skiploom,,3,3c,FALSE,FALSE,"Grass, Flying",6.6,31,50,50,75,55,70,55,85,110,450
+190,Aipom,ˈeɪpɑːm,,Ambipom,2,2a,FALSE,FALSE,Normal,25.4,0,50,50,55,70,55,40,55,85,360
+191,Sunkern,ˈsʌŋkɚn,,Sunflora,2,2a,FALSE,FALSE,Grass,4,12,50,50,30,30,30,30,30,30,180
+192,Sunflora,ˌsʌnˈflɔːɹə,Sunkern,,2,2b,FALSE,FALSE,Grass,18.7,31,50,50,75,75,55,105,85,30,425
+193,Yanma,ˈjænmə,,Yanmega,2,2a,FALSE,FALSE,"Bug, Flying",83.8,47,50,50,65,65,45,75,45,95,390
+194,Wooper,ˈwuːpɚ,,"Clodsire, Quagsire",2,2a,FALSE,FALSE,"Water, Ground, Poison, Ground",18.7,16,50,50,55,45,45,25,25,15,210
+195,Quagsire,ˈkwæɡsaɪɚ,Wooper,,2,2b,FALSE,FALSE,"Water, Ground",165.3,55,50,50,95,85,85,65,65,35,430
+196,Espeon,ˈɛspiːɑːn,Eevee,,2,2b,FALSE,FALSE,Psychic,58.4,0,87.5,12.5,65,65,60,130,95,110,525
+197,Umbreon,ˈʌmbɹiːɑːn,Eevee,,2,2b,FALSE,FALSE,Dark,59.5,39,87.5,12.5,95,65,110,60,130,65,525
+198,Murkrow,ˈmɝːkɹoʊ,,Honchkrow,2,2a,FALSE,FALSE,"Dark, Flying",4.6,20,50,50,60,85,42,85,42,91,405
+199,Slowking,ˈsloʊkɪŋ,Slowpoke,,2,2b,FALSE,FALSE,"Water, Psychic, Poison, Psychic",175.3,79,50,50,95,75,80,100,110,30,490
+200,Misdreavus,mɪsˈdɹiːvəs,,Mismagius,2,2a,FALSE,FALSE,Ghost,2.2,28,50,50,60,60,60,85,85,85,435
+201,Unown,ʌˈnoʊn,,,1,1a,FALSE,FALSE,Psychic,11,20,,,48,72,48,72,48,48,336
+202,Wobbuffet,ˈwɑːbəfɛt,Wynaut,,2,2b,FALSE,FALSE,Psychic,62.8,51,50,50,190,33,58,33,58,33,405
+203,Girafarig,dʒɚːˈæfəɹɪɡ,,Farigiraf,2,2a,FALSE,FALSE,"Normal, Psychic",91.5,59,50,50,70,80,65,90,65,85,455
+204,Pineco,ˈpaɪnkoʊ,,Forretress,2,2a,FALSE,FALSE,Bug,15.9,24,50,50,50,65,90,35,35,15,290
+205,Forretress,ˈfɔːɹətɹəs,Pineco,,2,2b,FALSE,FALSE,"Bug, Steel",277.3,0,50,50,75,90,140,60,60,40,465
+206,Dunsparce,ˈdʌnspɑːɹs,,Dudunsparce,2,2a,FALSE,FALSE,Normal,30.9,59,50,50,100,70,70,65,65,45,415
+207,Gligar,ˈɡlaɪɡɑːɹ,,Gliscor,2,2a,FALSE,FALSE,"Ground, Flying",142.9,43,50,50,65,75,105,35,65,85,430
+208,Steelix,ˈstiːlɪks,Onix,,2,2b,FALSE,FALSE,"Steel, Ground",881.8,362,50,50,75,85,200,55,65,30,510
+209,Snubbull,ˈsnʌbʊl,,Granbull,2,2a,FALSE,FALSE,Fairy,17.2,24,25,75,60,80,50,40,40,30,300
+210,Granbull,ˈɡɹænbʊl,Snubbull,,2,2b,FALSE,FALSE,Fairy,107.4,55,25,75,90,120,75,60,60,45,450
+211,Qwilfish,ˈkwɪlfɪʃ,,Overqwil,2,2a,FALSE,FALSE,"Water, Poison, Dark, Poison",8.6,0,50,50,65,95,75,55,55,85,430
+212,Scizor,ˈsɪzɔːɹ,Scyther,,2,2b,FALSE,FALSE,"Bug, Steel",260.1,71,50,50,70,130,100,55,80,65,500
+213,Shuckle,ˈʃʌkəl,,,1,1a,FALSE,FALSE,"Bug, Rock",45.2,24,50,50,20,10,230,10,230,5,505
+214,Heracross,ˈhɛɹəkɹɑːs,,,1,1a,FALSE,FALSE,"Bug, Fighting",119,59,50,50,80,125,75,40,95,85,500
+215,Sneasel,ˈsniːzəl,,"Sneasler, Weavile",2,2a,FALSE,FALSE,"Dark, Ice, Fighting, Poison",61.7,35,50,50,55,95,55,35,75,115,430
+216,Teddiursa,tɛdiːˈɝːsə,,Ursaring,3,3a,FALSE,FALSE,Normal,19.4,24,50,50,60,80,50,50,50,40,330
+217,Ursaring,ˈɝːsəɹɪŋ,Teddiursa,Ursaluna,3,3b,FALSE,FALSE,Normal,277.3,71,50,50,90,130,75,75,75,55,500
+218,Slugma,ˈslʌgmə,,Magcargo,2,2a,FALSE,FALSE,Fire,77.2,28,50,50,40,40,40,70,40,20,250
+219,Magcargo,mæɡˈkɑːɹɡoʊ,Slugma,,2,2b,FALSE,FALSE,"Fire, Rock",121.3,31,50,50,50,50,120,80,80,30,410
+220,Swinub,ˈswaɪnʌb,,Piloswine,3,3a,FALSE,FALSE,"Ice, Ground",14.3,16,50,50,50,50,40,30,30,50,250
+221,Piloswine,ˈpaɪloʊˌswaɪn,Swinub,Mamoswine,3,3b,FALSE,FALSE,"Ice, Ground",123,43,50,50,100,100,80,60,60,50,450
+222,Corsola,ˈkɔːɹsələ,,Cursola,2,2a,FALSE,FALSE,"Water, Rock, Ghost",11,0,25,75,55,55,85,65,85,35,380
+223,Remoraid,ˈɹɛməɹeɪd,,Octillery,2,2a,FALSE,FALSE,Water,26.5,24,50,50,35,65,35,65,35,65,300
+224,Octillery,ɑːkˈtɪlɚiː,Remoraid,,2,2b,FALSE,FALSE,Water,62.8,35,50,50,75,105,75,105,75,45,480
+225,Delibird,ˈdɛliːbɚd,,,1,1a,FALSE,FALSE,"Ice, Flying",35.3,0,50,50,45,55,45,65,45,75,330
+226,Mantine,ˈmæntiːn,Mantyke,,2,2b,FALSE,FALSE,"Water, Flying",485,83,50,50,65,40,70,80,140,70,465
+227,Skarmory,ˈskɑːɹmɚiː,,,1,1a,FALSE,FALSE,"Steel, Flying",111.3,67,50,50,65,80,140,40,70,70,465
+228,Houndour,ˈhaʊndaʊɚ,,Houndoom,2,2a,FALSE,FALSE,"Dark, Fire",23.8,0,50,50,45,60,30,80,50,65,330
+229,Houndoom,ˈhaʊnduːm,Houndour,,2,2b,FALSE,FALSE,"Dark, Fire",77.2,55,50,50,75,90,50,110,80,95,500
+230,Kingdra,ˈkɪŋdɹə,Seadra,,3,3c,FALSE,FALSE,"Water, Dragon",335.1,0,50,50,75,95,95,95,95,85,540
+231,Phanpy,ˈfænpiː,,Donphan,2,2a,FALSE,FALSE,Ground,73.9,20,50,50,90,60,60,40,40,40,330
+232,Donphan,ˈdɑːnfæn,Phanpy,,2,2b,FALSE,FALSE,Ground,264.6,0,50,50,90,120,120,60,60,50,500
+233,Porygon2,ˌpɔːɹiːɡɑːnˈtuː,Porygon,Porygon-Z,3,3b,FALSE,FALSE,Normal,71.7,0,,,85,80,90,105,95,60,515
+234,Stantler,ˈstæntlɚ,,Wyrdeer,2,2a,FALSE,FALSE,Normal,157,55,50,50,73,95,62,85,65,85,465
+235,Smeargle,ˈsmɪɹɡəl,,,1,1a,FALSE,FALSE,Normal,127.9,47,50,50,55,20,35,20,45,75,250
+236,Tyrogue,ˈtaɪɹoʊɡ,,"Hitmontop, Hitmonchan, Hitmonlee",2,2a,TRUE,FALSE,Fighting,46.3,28,,0,35,35,35,35,35,35,210
+237,Hitmontop,ˈhɪtmɑːntɑːp,Tyrogue,,2,2b,FALSE,FALSE,Fighting,105.8,55,,0,50,95,95,35,110,70,455
+238,Smoochum,ˈsmuːtʃəm,,Jynx,2,2a,TRUE,FALSE,"Ice, Psychic",13.2,16,0,,45,30,15,85,65,65,305
+239,Elekid,ˈɛləkɪd,,Electabuzz,3,3a,TRUE,FALSE,Electric,51.8,24,75,25,45,63,37,65,55,95,360
+240,Magby,ˈmægbiː,,Magmar,3,3a,TRUE,FALSE,Fire,47.2,28,75,25,45,75,37,70,55,83,365
+241,Miltank,ˈmɪltæŋk,,,1,1a,FALSE,FALSE,Normal,166.4,47,0,,95,80,105,40,70,100,490
+242,Blissey,ˈblɪsiː,Chansey,,3,3c,FALSE,FALSE,Normal,103.2,59,0,,255,10,10,75,135,55,540
+243,Raikou,ˈɹaɪkoʊ,,,1,1a,FALSE,TRUE,Electric,392.4,75,,,90,85,75,115,100,115,580
+244,Entei,ˈɛnteɪ,,,1,1a,FALSE,TRUE,Fire,436.5,83,,,115,115,85,90,75,100,580
+245,Suicune,ˈswiːkuːn,,,1,1a,FALSE,TRUE,Water,412.3,79,,,100,75,115,90,115,85,580
+246,Larvitar,ˈlɑːɹvətɑːɹ,,Pupitar,3,3a,FALSE,FALSE,"Rock, Ground",158.7,24,50,50,50,64,50,45,50,41,300
+247,Pupitar,ˈpjuːpətɑːɹ,Larvitar,Tyranitar,3,3b,FALSE,FALSE,"Rock, Ground",335.1,0,50,50,70,84,70,65,70,51,410
+248,Tyranitar,taɪˈɹænətɑːɹ,Pupitar,,3,3c,FALSE,FALSE,"Rock, Dark",445.3,79,50,50,100,134,110,95,100,61,600
+249,Lugia,ˈluːɡiːə,,,1,1a,FALSE,TRUE,"Psychic, Flying",476.2,205,,,106,90,130,90,154,110,680
+250,Ho-Oh,ˈhoʊʔoʊ,,,1,1a,FALSE,TRUE,"Fire, Flying",438.7,150,,,106,130,90,110,154,90,680
+251,Celebi,ˈsɛləbiː,,,1,1a,FALSE,FALSE,"Psychic, Grass",11,24,,,100,100,100,100,100,100,600
+252,Treecko,ˈtɹiːkoʊ,,Grovyle,3,3a,FALSE,FALSE,Grass,11,20,87.5,12.5,40,45,35,65,55,70,310
+253,Grovyle,ˈɡɹoʊvaɪl,Treecko,Sceptile,3,3b,FALSE,FALSE,Grass,47.6,35,87.5,12.5,50,65,45,85,65,95,405
+254,Sceptile,ˈsɛptaɪl,Grovyle,,3,3c,FALSE,FALSE,Grass,115.1,67,87.5,12.5,70,85,65,105,85,120,530
+255,Torchic,ˈtɔːɹtʃɪk,,Combusken,3,3a,FALSE,FALSE,Fire,5.5,16,87.5,12.5,45,60,40,70,50,45,310
+256,Combusken,kəmˈbʌskən,Torchic,Blaziken,3,3b,FALSE,FALSE,"Fire, Fighting",43,35,87.5,12.5,60,85,60,85,60,55,405
+257,Blaziken,ˈbleɪzəkən,Combusken,,3,3c,FALSE,FALSE,"Fire, Fighting",114.6,75,87.5,12.5,80,120,70,110,70,80,530
+258,Mudkip,ˈmʌdkɪp,,Marshtomp,3,3a,FALSE,FALSE,Water,16.8,16,87.5,12.5,50,70,50,50,50,40,310
+259,Marshtomp,ˈmɑːɹʃtɑːmp,Mudkip,Swampert,3,3b,FALSE,FALSE,"Water, Ground",61.7,28,87.5,12.5,70,85,70,60,70,50,405
+260,Swampert,ˈswɑːmpɚt,Marshtomp,,3,3c,FALSE,FALSE,"Water, Ground",180.6,59,87.5,12.5,100,110,90,85,90,60,535
+261,Poochyena,ˌpuːtʃiːˈjɛnə,,Mightyena,2,2a,FALSE,FALSE,Dark,30,20,50,50,35,55,35,30,30,35,220
+262,Mightyena,ˌmaɪtiːˈjɛnə,Poochyena,,2,2b,FALSE,FALSE,Dark,81.6,39,50,50,70,90,70,60,60,70,420
+263,Zigzagoon,zɪɡzəˈɡuːn,,Linoone,3,3a,FALSE,FALSE,"Dark, Normal, Normal",38.6,16,50,50,38,30,41,30,41,60,240
+264,Linoone,laɪˈnuːn,Zigzagoon,Obstagoon,3,3b,FALSE,FALSE,"Dark, Normal, Normal",71.7,20,50,50,78,70,61,50,61,100,420
+265,Wurmple,ˈwɝːmpəl,,"Silcoon, Cascoon",3,3a,FALSE,FALSE,Bug,7.9,12,50,50,45,45,35,20,30,20,195
+266,Silcoon,ˈsɪlkuːn,Wurmple,Beautifly,3,3b,FALSE,FALSE,Bug,22,24,50,50,50,35,55,25,25,15,205
+267,Beautifly,ˈbjuːtəflaɪ,Silcoon,,3,3c,FALSE,FALSE,"Bug, Flying",62.6,39,50,50,60,70,50,90,50,65,385
+268,Cascoon,ˈkæskuːn,Wurmple,Dustox,3,3b,FALSE,FALSE,Bug,25.4,28,50,50,50,35,55,25,25,15,205
+269,Dustox,ˈdʌstɑːks,Cascoon,,3,3c,FALSE,FALSE,"Bug, Poison",69.7,47,50,50,60,50,70,50,90,65,385
+270,Lotad,ˈloʊtæd,,Lombre,3,3a,FALSE,FALSE,"Water, Grass",5.7,20,50,50,40,30,30,40,50,30,220
+271,Lombre,ˈlɑːmbɹeɪ,Lotad,Ludicolo,3,3b,FALSE,FALSE,"Water, Grass",71.7,47,50,50,60,50,50,60,70,50,340
+272,Ludicolo,ˌluːdiːˈkoʊloʊ,Lombre,,3,3c,FALSE,FALSE,"Water, Grass",121.3,59,50,50,80,70,70,90,100,70,480
+273,Seedot,ˈsiːdɑːt,,Nuzleaf,3,3a,FALSE,FALSE,Grass,8.8,20,50,50,40,40,50,30,30,30,220
+274,Nuzleaf,ˈnʌzliːf,Seedot,Shiftry,3,3b,FALSE,FALSE,"Grass, Dark",61.7,39,50,50,70,70,40,60,40,60,340
+275,Shiftry,ˈʃɪftɹiː,Nuzleaf,,3,3c,FALSE,FALSE,"Grass, Dark",131.4,51,50,50,90,100,60,90,60,80,480
+276,Taillow,ˈteɪloʊ,,Swellow,2,2a,FALSE,FALSE,"Normal, Flying",5.1,12,50,50,40,55,30,30,30,85,270
+277,Swellow,ˈswɛloʊ,Taillow,,2,2b,FALSE,FALSE,"Normal, Flying",43.7,28,50,50,60,85,60,50,50,125,430
+278,Wingull,ˈwɪŋɡəl,,Pelipper,2,2a,FALSE,FALSE,"Water, Flying",20.9,24,50,50,40,30,30,55,30,85,270
+279,Pelipper,ˈpɛlɪpɚ,Wingull,,2,2b,FALSE,FALSE,"Water, Flying",61.7,47,50,50,60,50,100,85,70,65,430
+280,Ralts,ˈɹɑːlts,,Kirlia,3,3a,FALSE,FALSE,"Psychic, Fairy",14.6,16,50,50,28,25,25,45,35,40,198
+281,Kirlia,ˈkɝːliːə,Ralts,"Gardevoir, Gallade",3,3b,FALSE,FALSE,"Psychic, Fairy",44.5,31,50,50,38,35,35,65,55,50,278
+282,Gardevoir,ˈɡɑːɹdəvwɑːɹ,Kirlia,,3,3c,FALSE,FALSE,"Psychic, Fairy",106.7,63,50,50,68,65,65,125,115,80,518
+283,Surskit,ˈsɝːskɪt,,Masquerain,2,2a,FALSE,FALSE,"Bug, Water",3.7,20,50,50,40,30,32,50,52,65,269
+284,Masquerain,mæskɚˈeɪn,Surskit,,2,2b,FALSE,FALSE,"Bug, Flying",7.9,31,50,50,70,60,62,80,82,60,414
+285,Shroomish,ˈʃɹuːmɪʃ,,Breloom,2,2a,FALSE,FALSE,Grass,9.9,16,50,50,60,40,60,40,60,35,295
+286,Breloom,ˈbɹɛluːm,Shroomish,,2,2b,FALSE,FALSE,"Grass, Fighting",86.4,47,50,50,60,130,80,60,60,70,460
+287,Slakoth,ˈslækɑːθ,,Vigoroth,3,3a,FALSE,FALSE,Normal,52.9,31,50,50,60,60,60,35,35,30,280
+288,Vigoroth,ˈvɪɡɚɑːθ,Slakoth,Slaking,3,3b,FALSE,FALSE,Normal,102.5,55,50,50,80,80,80,55,55,90,440
+289,Slaking,ˈslækɪŋ,Vigoroth,,3,3c,FALSE,FALSE,Normal,287.7,79,50,50,150,160,100,95,65,100,670
+290,Nincada,nɪnˈkɑːdə,,Ninjask,2,2a,FALSE,FALSE,"Bug, Ground",12.1,20,50,50,31,45,90,30,30,40,266
+291,Ninjask,ˈnɪndʒæsk,Nincada,,2,2b,FALSE,FALSE,"Bug, Flying",26.5,31,50,50,61,90,45,50,50,160,456
+292,Shedinja,ʃɛdˈɪndʒə,,,1,1a,FALSE,FALSE,"Bug, Ghost",2.6,31,,,1,90,45,30,30,40,236
+293,Whismur,ˈhwɪsmɚ,,Loudred,3,3a,FALSE,FALSE,Normal,35.9,24,50,50,64,51,23,51,23,28,240
+294,Loudred,ˈlaʊdɹɛd,Whismur,Exploud,3,3b,FALSE,FALSE,Normal,89.3,39,50,50,84,71,43,71,43,48,360
+295,Exploud,ɛkˈsplaʊd,Loudred,,3,3c,FALSE,FALSE,Normal,185.2,59,50,50,104,91,63,91,63,68,480
+296,Makuhita,ˌmɑːkuːˈhiːtə,,Hariyama,2,2a,FALSE,FALSE,Fighting,190.5,39,75,25,72,60,30,20,30,25,237
+297,Hariyama,ˌhɑːɹiːˈjɑːmə,Makuhita,,2,2b,FALSE,FALSE,Fighting,559.5,91,75,25,144,120,60,40,60,50,474
+298,Azurill,əˈzuːɹɪl,,Marill,3,3a,TRUE,FALSE,"Normal, Fairy",4.4,8,25,75,50,20,40,20,40,20,190
+299,Nosepass,ˈnoʊzpæs,,Probopass,2,2a,FALSE,FALSE,Rock,213.8,39,50,50,30,45,135,45,90,30,375
+300,Skitty,ˈskɪtiː,,Delcatty,2,2a,FALSE,FALSE,Normal,24.3,24,25,75,50,45,45,35,35,50,260
+301,Delcatty,ˈdɛlkætiː,Skitty,,2,2b,FALSE,FALSE,Normal,71.9,43,25,75,70,65,65,55,55,70,380
+302,Sableye,ˈseɪbəlaɪ,,,1,1a,FALSE,FALSE,"Dark, Ghost",24.3,20,50,50,50,75,75,65,65,50,380
+303,Mawile,ˈmɑːwaɪl,,,1,1a,FALSE,FALSE,"Steel, Fairy",25.4,24,50,50,50,85,85,55,55,50,380
+304,Aron,ˈɛɹɑːn,,Lairon,3,3a,FALSE,FALSE,"Steel, Rock",132.3,16,50,50,50,70,100,40,40,30,330
+305,Lairon,ˈlɛɹɑːn,Aron,Aggron,3,3b,FALSE,FALSE,"Steel, Rock",264.6,35,50,50,60,90,140,50,50,40,430
+306,Aggron,ˈæɡɹɑːn,Lairon,,3,3c,FALSE,FALSE,"Steel, Rock",793.7,83,50,50,70,110,180,60,60,50,530
+307,Meditite,ˈmɛdətaɪt,,Medicham,2,2a,FALSE,FALSE,"Fighting, Psychic",24.7,24,50,50,30,40,55,40,55,60,280
+308,Medicham,ˈmɛdətʃæm,Meditite,,2,2b,FALSE,FALSE,"Fighting, Psychic",69.4,51,50,50,60,60,75,60,75,80,410
+309,Electrike,ɪˈlɛktɹɑɪk,,Manectric,2,2a,FALSE,FALSE,Electric,33.5,24,50,50,40,45,40,65,40,65,295
+310,Manectric,meɪˈnɛktɹɪk,Electrike,,2,2b,FALSE,FALSE,Electric,88.6,59,50,50,70,75,60,105,60,105,475
+311,Plusle,ˈplʌsəl,,,1,1a,FALSE,FALSE,Electric,9.3,16,50,50,60,50,40,85,75,95,405
+312,Minun,ˈmaɪnən,,,1,1a,FALSE,FALSE,Electric,9.3,16,50,50,60,40,50,75,85,95,405
+313,Volbeat,ˈvoʊlbiːt,,,1,1a,FALSE,FALSE,Bug,39,28,,0,65,73,55,47,75,85,400
+314,Illumise,ɪluˈmiːzeɪ,,,1,1a,FALSE,FALSE,Bug,39,24,0,,65,47,55,73,75,85,400
+315,Roselia,ɹoʊˈzɛliːə,Budew,Roserade,3,3b,FALSE,FALSE,"Grass, Poison",4.4,12,50,50,50,60,45,100,80,65,400
+316,Gulpin,ˈɡʊlpɪn,,Swalot,2,2a,FALSE,FALSE,Poison,22.7,16,50,50,70,43,53,43,53,40,302
+317,Swalot,ˈswɑːlɑːt,Gulpin,,2,2b,FALSE,FALSE,Poison,176.4,67,50,50,100,73,83,73,83,55,467
+318,Carvanha,kɑːɹˈvɑːnə,,Sharpedo,2,2a,FALSE,FALSE,"Water, Dark",45.9,31,50,50,45,90,20,65,20,65,305
+319,Sharpedo,ʃɑːɹˈpiːdoʊ,Carvanha,,2,2b,FALSE,FALSE,"Water, Dark",195.8,71,50,50,70,120,40,95,40,95,460
+320,Wailmer,ˈweɪlmɚ,,Wailord,2,2a,FALSE,FALSE,Water,286.6,79,50,50,130,70,35,70,35,60,400
+321,Wailord,ˈweɪlɔːɹd,Wailmer,,2,2b,FALSE,FALSE,Water,877.4,571,50,50,170,90,45,90,45,60,500
+322,Numel,ˈnʌməl,,Camerupt,2,2a,FALSE,FALSE,"Fire, Ground",52.9,28,50,50,60,60,40,65,45,35,305
+323,Camerupt,ˈkæmɚʌpt,Numel,,2,2b,FALSE,FALSE,"Fire, Ground",485,75,50,50,70,100,70,105,75,40,460
+324,Torkoal,ˈtɔːɹkoʊl,,,1,1a,FALSE,FALSE,Fire,177.3,20,50,50,70,85,140,85,70,20,470
+325,Spoink,spɔɪŋk,,Grumpig,2,2a,FALSE,FALSE,Psychic,67.5,28,50,50,60,25,35,70,80,60,330
+326,Grumpig,ˈɡɹʌmpɪɡ,Spoink,,2,2b,FALSE,FALSE,Psychic,157.6,35,50,50,80,45,65,90,110,80,470
+327,Spinda,ˈspɪndə,,,1,1a,FALSE,FALSE,Normal,11,43,50,50,60,60,60,60,60,60,360
+328,Trapinch,ˈtɹæpɪntʃ,,Vibrava,3,3a,FALSE,FALSE,Ground,33.1,28,50,50,45,100,45,45,45,10,290
+329,Vibrava,vaɪˈbɹɑːvə,Trapinch,Flygon,3,3b,FALSE,FALSE,"Ground, Dragon",33.7,43,50,50,50,70,50,50,50,70,340
+330,Flygon,ˈflaɪɡɑːn,Vibrava,,3,3c,FALSE,FALSE,"Ground, Dragon",180.8,79,50,50,80,100,80,80,80,100,520
+331,Cacnea,ˈkækniːə,,Cacturne,2,2a,FALSE,FALSE,Grass,113.1,16,50,50,50,85,40,85,40,35,335
+332,Cacturne,ˈkæktɚn,Cacnea,,2,2b,FALSE,FALSE,"Grass, Dark",170.6,51,50,50,70,115,60,115,60,55,475
+333,Swablu,ˈswɑːbluː,,Altaria,2,2a,FALSE,FALSE,"Normal, Flying",2.6,16,50,50,45,40,60,40,75,50,310
+334,Altaria,ɑːlˈtɑːɹiːə,Swablu,,2,2b,FALSE,FALSE,"Dragon, Flying",45.4,43,50,50,75,70,90,70,105,80,490
+335,Zangoose,ˈzæŋɡus,,,1,1a,FALSE,FALSE,Normal,88.8,51,50,50,73,115,60,60,60,90,458
+336,Seviper,səˈvaɪpɚ,,,1,1a,FALSE,FALSE,Poison,115.7,106,50,50,73,100,60,100,60,65,458
+337,Lunatone,ˈluːnətoʊn,,,1,1a,FALSE,FALSE,"Rock, Psychic",370.4,39,,,70,55,65,95,85,70,440
+338,Solrock,ˈsɔːlɹɑːk,,,1,1a,FALSE,FALSE,"Rock, Psychic",339.5,47,,,70,95,85,55,65,70,440
+339,Barboach,ˈbɑːɹboʊtʃ,,Whiscash,2,2a,FALSE,FALSE,"Water, Ground",4.2,16,50,50,50,48,43,46,41,60,288
+340,Whiscash,ˈhwɪskæʃ,Barboach,,2,2b,FALSE,FALSE,"Water, Ground",52,35,50,50,110,78,73,76,71,60,468
+341,Corphish,ˈkɔːɹfɪʃ,,Crawdaunt,2,2a,FALSE,FALSE,Water,25.4,24,50,50,43,80,65,50,35,35,308
+342,Crawdaunt,ˈkrɑːdɑːnt,Corphish,,2,2b,FALSE,FALSE,"Water, Dark",72.3,43,50,50,63,120,85,90,55,55,468
+343,Baltoy,ˈbɑːltɔɪ,,Claydol,2,2a,FALSE,FALSE,"Ground, Psychic",47.4,20,,,40,40,55,40,70,55,300
+344,Claydol,ˈkleɪdɔl,Baltoy,,2,2b,FALSE,FALSE,"Ground, Psychic",238,59,,,60,70,105,70,120,75,500
+345,Lileep,lɪlˈiːp,,Cradily,2,2a,FALSE,FALSE,"Rock, Grass",52.5,39,87.5,12.5,66,41,77,61,87,23,355
+346,Cradily,kɹeɪˈdɪliː,Lileep,,2,2b,FALSE,FALSE,"Rock, Grass",133.2,59,87.5,12.5,86,81,97,81,107,43,495
+347,Anorith,ˈænəɹɪθ,,Armaldo,2,2a,FALSE,FALSE,"Rock, Bug",27.6,28,87.5,12.5,45,95,50,40,50,75,355
+348,Armaldo,ɑːɹˈmɑːldoʊ,Anorith,,2,2b,FALSE,FALSE,"Rock, Bug",150.4,59,87.5,12.5,75,125,100,70,80,45,495
+349,Feebas,ˈfiːbæs,,Milotic,2,2a,FALSE,FALSE,Water,16.3,24,50,50,20,15,20,10,55,80,200
+350,Milotic,ˈmaɪloʊtɪk,Feebas,,2,2b,FALSE,FALSE,Water,357.1,244,50,50,95,60,79,100,125,81,540
+351,Castform,ˈkæstfɔːɹm,,,1,1a,FALSE,FALSE,"Normal,, Fire,, Water,, Ice",1.8,12,50,50,70,70,70,70,70,70,420
+352,Kecleon,ˈkɛkliːɑːn,,,1,1a,FALSE,FALSE,Normal,48.5,39,50,50,60,90,70,60,120,40,440
+353,Shuppet,ˈʃʌpət,,Banette,2,2a,FALSE,FALSE,Ghost,5.1,24,50,50,44,75,35,63,33,45,295
+354,Banette,beɪˈnɛt,Shuppet,,2,2b,FALSE,FALSE,Ghost,27.6,43,50,50,64,115,65,83,63,65,455
+355,Duskull,ˈdʌskəl,,Dusclops,3,3a,FALSE,FALSE,Ghost,33.1,31,50,50,20,40,90,30,90,25,295
+356,Dusclops,ˈdʌsklɑːps,Duskull,Dusknoir,3,3b,FALSE,FALSE,Ghost,67.5,63,50,50,40,70,130,60,130,25,455
+357,Tropius,ˈtɹɑːpiːəs,,,1,1a,FALSE,FALSE,"Grass, Flying",220.5,79,50,50,99,68,83,72,87,51,460
+358,Chimecho,tʃaɪˈmɛkoʊ,Chingling,,2,2b,FALSE,FALSE,Psychic,2.2,24,50,50,65,50,70,95,80,65,425
+359,Absol,ˈæbsɔːl,,,1,1a,FALSE,FALSE,Dark,103.6,47,50,50,65,130,60,75,60,75,465
+360,Wynaut,ˈwaɪnɑːt,,Wobbuffet,2,2a,TRUE,FALSE,Psychic,30.9,24,50,50,95,23,48,23,48,23,260
+361,Snorunt,ˈsnoʊɹʌnt,,"Glalie, Froslass",2,2a,FALSE,FALSE,Ice,37,28,50,50,50,50,50,50,50,50,300
+362,Glalie,ˈɡleɪliː,Snorunt,,2,2b,FALSE,FALSE,Ice,565.5,59,50,50,80,80,80,80,80,80,480
+363,Spheal,ˈsfiːl,,Sealeo,3,3a,FALSE,FALSE,"Ice, Water",87.1,31,50,50,70,40,50,55,50,25,290
+364,Sealeo,ˈsiːliːoʊ,Spheal,Walrein,3,3b,FALSE,FALSE,"Ice, Water",193.1,43,50,50,90,60,70,75,70,45,410
+365,Walrein,ˈwɑːlɹeɪn,Sealeo,,3,3c,FALSE,FALSE,"Ice, Water",332,55,50,50,110,80,90,95,90,65,530
+366,Clamperl,ˈklæmpɚl,,"Gorebyss, Huntail",2,2a,FALSE,FALSE,Water,115.7,16,50,50,35,64,85,74,55,32,345
+367,Huntail,ˈhʌnteɪl,Clamperl,,2,2b,FALSE,FALSE,Water,59.5,67,50,50,55,104,105,94,75,52,485
+368,Gorebyss,ˈɡɔːɹəbɪs,Clamperl,,2,2b,FALSE,FALSE,Water,49.8,71,50,50,55,84,105,114,75,52,485
+369,Relicanth,ˈɹɛlɪkænθ,,,1,1a,FALSE,FALSE,"Water, Rock",51.6,39,87.5,12.5,100,90,130,45,65,55,485
+370,Luvdisc,ˈlʌvdɪsk,,,1,1a,FALSE,FALSE,Water,19.2,24,25,75,43,30,55,40,65,97,330
+371,Bagon,ˈbeɪɡɑːn,,Shelgon,3,3a,FALSE,FALSE,Dragon,92.8,24,50,50,45,75,60,40,30,50,300
+372,Shelgon,ˈʃɛlɡɑːn,Bagon,Salamence,3,3b,FALSE,FALSE,Dragon,243.6,43,50,50,65,95,100,60,50,50,420
+373,Salamence,ˈsæləmɛns,Shelgon,,3,3c,FALSE,FALSE,"Dragon, Flying",226.2,59,50,50,95,135,80,110,80,100,600
+374,Beldum,ˈbɛldʌm,,Metang,3,3a,FALSE,FALSE,"Steel, Psychic",209.9,24,,,40,55,80,35,60,30,300
+375,Metang,məˈtæŋ,Beldum,Metagross,3,3b,FALSE,FALSE,"Steel, Psychic",446.4,47,,,60,75,100,55,80,50,420
+376,Metagross,ˈmɛtəɡroʊs,Metang,,3,3c,FALSE,FALSE,"Steel, Psychic",1212.5,63,,,80,135,130,95,90,70,600
+377,Regirock,ˈɹɛdʒiːɹɑːk,,,1,1a,FALSE,TRUE,Rock,507.1,67,,,80,100,200,50,100,50,580
+378,Regice,ˈɹɛdʒaɪs,,,1,1a,FALSE,TRUE,Ice,385.8,71,,,80,50,100,100,200,50,580
+379,Registeel,ˈɹɛdʒiːstiːl,,,1,1a,FALSE,TRUE,Steel,451.9,75,,,80,75,150,75,150,50,580
+380,Latias,ˈlɑːtiːɑːs,,,1,1a,FALSE,TRUE,"Dragon, Psychic",88.2,55,0,,80,80,90,110,130,110,600
+381,Latios,ˈlɑːtiːoʊs,,,1,1a,FALSE,TRUE,"Dragon, Psychic",132.3,79,,0,80,90,80,130,110,110,600
+382,Kyogre,kaɪˈoʊɡɚ,,,1,1a,FALSE,TRUE,Water,776,177,,,100,100,90,150,140,90,670
+383,Groudon,ˈɡɹaʊdɑːn,,,1,1a,FALSE,TRUE,Ground,2094.4,138,,,100,150,140,100,90,90,670
+384,Rayquaza,ɹeɪˈkweɪzə,,,1,1a,FALSE,TRUE,"Dragon, Flying",455.3,276,,,105,150,90,150,90,95,680
+385,Jirachi,dʒɚˈɑːtʃiː,,,1,1a,FALSE,FALSE,"Steel, Psychic",2.4,12,,,100,100,100,100,100,100,600
+386,Deoxys,diːˈɑːksɪs,,,1,1a,FALSE,FALSE,Psychic,134,67,,,50,150,50,150,50,150,600
+387,Turtwig,ˈtɝːtwɪɡ,,Grotle,3,3a,FALSE,FALSE,Grass,22.5,16,87.5,12.5,55,68,64,45,55,31,318
+388,Grotle,ˈɡɹɑːɾəl,Turtwig,Torterra,3,3b,FALSE,FALSE,Grass,213.8,43,87.5,12.5,75,89,85,55,65,36,405
+389,Torterra,tɔːɹˈtɛɹə,Grotle,,3,3c,FALSE,FALSE,"Grass, Ground",683.4,87,87.5,12.5,95,109,105,75,85,56,525
+390,Chimchar,ˈtʃɪmtʃɑːɹ,,Monferno,3,3a,FALSE,FALSE,Fire,13.7,0,87.5,12.5,44,58,44,58,44,61,309
+391,Monferno,mɑːnˈfɝːnoʊ,Chimchar,Infernape,3,3b,FALSE,FALSE,"Fire, Fighting",48.5,0,87.5,12.5,64,78,52,78,52,81,405
+392,Infernape,ɪnˈfɝːneɪp,Monferno,,3,3c,FALSE,FALSE,"Fire, Fighting",121.3,47,87.5,12.5,76,104,71,104,71,108,534
+393,Piplup,ˈpɪplʌp,,Prinplup,3,3a,FALSE,FALSE,Water,11.5,16,87.5,12.5,53,51,53,61,56,40,314
+394,Prinplup,ˈpɹɪnplʌp,Piplup,Empoleon,3,3b,FALSE,FALSE,Water,50.7,31,87.5,12.5,64,66,68,81,76,50,405
+395,Empoleon,ɛmˈpɔːliːɑːn,Prinplup,,3,3c,FALSE,FALSE,"Water, Steel",186.3,67,87.5,12.5,84,86,88,111,101,60,530
+396,Starly,ˈstɑːɹliː,,Staravia,3,3a,FALSE,FALSE,"Normal, Flying",4.4,12,50,50,40,55,30,30,30,60,245
+397,Staravia,stɑːɹˈeɪviːə,Starly,Staraptor,3,3b,FALSE,FALSE,"Normal, Flying",34.2,24,50,50,55,75,50,40,40,80,340
+398,Staraptor,stɑːɹˈæptɚ,Staravia,,3,3c,FALSE,FALSE,"Normal, Flying",54.9,47,50,50,85,120,70,50,50,100,475
+399,Bidoof,ˈbiːduːf,,Bibarel,2,2a,FALSE,FALSE,Normal,44.1,20,50,50,59,45,40,35,40,31,250
+400,Bibarel,ˈbiːbɛɹəl,Bidoof,,2,2b,FALSE,FALSE,"Normal, Water",69.4,39,50,50,79,85,60,55,60,71,410
+401,Kricketot,ˈkɹɪkətɑːt,,Kricketune,2,2a,FALSE,FALSE,Bug,4.9,12,50,50,37,25,41,25,41,25,194
+402,Kricketune,ˈkɹɪkətuːn,Kricketot,,2,2b,FALSE,FALSE,Bug,56.2,39,50,50,77,85,51,55,51,65,384
+403,Shinx,ˈʃiːŋks,,Luxio,3,3a,FALSE,FALSE,Electric,20.9,20,50,50,45,65,34,40,34,45,263
+404,Luxio,ˈlʌksiːoʊ,Shinx,Luxray,3,3b,FALSE,FALSE,Electric,67.2,35,50,50,60,85,49,60,49,60,363
+405,Luxray,ˈlʌksɹeɪ,Luxio,,3,3c,FALSE,FALSE,Electric,92.6,55,50,50,80,120,79,95,79,70,523
+406,Budew,bəˈduː,,Roselia,3,3a,TRUE,FALSE,"Grass, Poison",2.6,8,50,50,40,30,35,50,70,55,280
+407,Roserade,ˈɹoʊzɹeɪd,Roselia,,3,3c,FALSE,FALSE,"Grass, Poison",32,35,50,50,60,70,55,125,105,90,505
+408,Cranidos,ˈkɹeɪniːdoʊs,,Rampardos,2,2a,FALSE,FALSE,Rock,69.4,35,87.5,12.5,67,125,40,30,30,58,350
+409,Rampardos,ræmˈpɑːɹdoʊs,Cranidos,,2,2b,FALSE,FALSE,Rock,226,63,87.5,12.5,97,165,60,65,50,58,495
+410,Shieldon,ˈʃiːldɑːn,,Bastiodon,2,2a,FALSE,FALSE,"Rock, Steel",125.7,20,87.5,12.5,30,42,118,42,88,30,350
+411,Bastiodon,ˈbæstiːoʊdɑːn,Shieldon,,2,2b,FALSE,FALSE,"Rock, Steel",329.6,51,87.5,12.5,60,52,168,47,138,30,495
+412,Burmy,ˈbɝːmiː,,"Wormadam, Mothim",2,2a,FALSE,FALSE,Bug,7.5,8,50,50,40,29,45,29,45,36,224
+413,Wormadam,ˈwɝːmədæm,Burmy,,2,2b,FALSE,FALSE,"Bug, Grass, Bug, Ground, Bug, Steel",14.3,20,0,,60,59,85,79,105,36,424
+414,Mothim,ˈmɑːθɪm,Burmy,,2,2b,FALSE,FALSE,"Bug, Flying",51.4,35,,0,70,94,50,94,50,66,424
+415,Combee,ˈkoʊmbiː,,Vespiquen,2,2a,FALSE,FALSE,"Bug, Flying",12.1,12,87.5,12.5,30,30,42,30,42,70,244
+416,Vespiquen,ˈvɛspɪkwɛn,Combee,,2,2b,FALSE,FALSE,"Bug, Flying",84.9,47,0,,70,80,102,80,102,40,474
+417,Pachirisu,pɑːtʃiˈɹiːsuː,,,1,1a,FALSE,FALSE,Electric,8.6,16,50,50,60,45,70,45,90,95,405
+418,Buizel,ˈbwiːzəl,,Floatzel,2,2a,FALSE,FALSE,Water,65,28,50,50,55,65,35,60,30,85,330
+419,Floatzel,ˈfloʊtsəl,Buizel,,2,2b,FALSE,FALSE,Water,73.9,43,50,50,85,105,55,85,50,115,495
+420,Cherubi,tʃɚˈuːbiː,,Cherrim,2,2a,FALSE,FALSE,Grass,7.3,16,50,50,45,35,45,62,53,35,275
+421,Cherrim,ˈtʃɛɹɪm,Cherubi,,2,2b,FALSE,FALSE,Grass,20.5,20,50,50,70,60,70,87,78,85,450
+422,Shellos,ˈʃɛlɑːs,,Gastrodon,2,2a,FALSE,FALSE,Water,13.9,12,50,50,76,48,48,57,62,34,325
+423,Gastrodon,ˈɡæstɹoʊdɑːn,Shellos,,2,2b,FALSE,FALSE,"Water, Ground",65.9,35,50,50,111,83,68,92,82,39,475
+424,Ambipom,ˈæmbɪpɑːm,Aipom,,2,2b,FALSE,FALSE,Normal,44.8,47,50,50,75,100,66,60,66,115,482
+425,Drifloon,ˈdɹɪfluːn,,Drifblim,2,2a,FALSE,FALSE,"Ghost, Flying",2.6,16,50,50,90,50,34,60,44,70,348
+426,Drifblim,ˈdɹɪfblɪm,Drifloon,,2,2b,FALSE,FALSE,"Ghost, Flying",33.1,47,50,50,150,80,44,90,54,80,498
+427,Buneary,bəˈnɪɹiː,,Lopunny,2,2a,FALSE,FALSE,Normal,12.1,16,50,50,55,66,44,44,56,85,350
+428,Lopunny,ˈlɑːpəniː,Buneary,,2,2b,FALSE,FALSE,Normal,73.4,47,50,50,65,76,84,54,96,105,480
+429,Mismagius,mɪsˈmæɡiːəs,Misdreavus,,2,2b,FALSE,FALSE,Ghost,9.7,35,50,50,60,60,60,105,105,105,495
+430,Honchkrow,ˈhɑːntʃkɹoʊ,Murkrow,,2,2b,FALSE,FALSE,"Dark, Flying",60.2,35,50,50,100,125,52,105,52,71,505
+431,Glameow,ˈɡlæmiːaʊ,,Purugly,2,2a,FALSE,FALSE,Normal,8.6,20,25,75,49,55,42,42,37,85,310
+432,Purugly,pɚˈʌɡliː,Glameow,,2,2b,FALSE,FALSE,Normal,96.6,39,25,75,71,82,64,64,59,112,452
+433,Chingling,ˈtʃɪŋlɪŋ,,Chimecho,2,2a,TRUE,FALSE,Psychic,1.3,8,50,50,45,30,50,65,50,45,285
+434,Stunky,ˈstʌŋkiː,,Skuntank,2,2a,FALSE,FALSE,"Poison, Dark",42.3,16,50,50,63,63,47,41,41,74,329
+435,Skuntank,ˈskʌntæŋk,Stunky,,2,2b,FALSE,FALSE,"Poison, Dark",83.8,39,50,50,103,93,67,71,61,84,479
+436,Bronzor,ˈbɹɑːnzɔːɹ,,Bronzong,2,2a,FALSE,FALSE,"Steel, Psychic",133.4,20,,,57,24,86,24,86,23,300
+437,Bronzong,ˈbɹɑːnzɑːŋ,Bronzor,,2,2b,FALSE,FALSE,"Steel, Psychic",412.3,51,,,67,89,116,79,116,33,500
+438,Bonsly,ˈbɑːnslaɪ,,Sudowoodo,2,2a,TRUE,FALSE,Rock,33.1,20,50,50,50,80,95,10,45,10,290
+439,Mime Jr.,maɪmˈdʒuːnjɚ,,Mr. Mime,3,3a,TRUE,FALSE,"Psychic, Fairy",28.7,24,50,50,20,25,45,70,90,60,310
+440,Happiny,həˈpiːniː,,Chansey,3,3a,TRUE,FALSE,Normal,53.8,24,0,,100,5,5,15,65,30,220
+441,Chatot,ˈtʃætɑːt,,,1,1a,FALSE,FALSE,"Normal, Flying",4.2,20,50,50,76,65,45,92,42,91,411
+442,Spiritomb,ˈspɪɹətuːm,,,1,1a,FALSE,FALSE,"Ghost, Dark",238.1,39,50,50,50,92,108,92,108,35,485
+443,Gible,ˈɡɪbəl,,Gabite,3,3a,FALSE,FALSE,"Dragon, Ground",45.2,28,50,50,58,70,45,40,45,42,300
+444,Gabite,ɡəˈbaɪt,Gible,Garchomp,3,3b,FALSE,FALSE,"Dragon, Ground",123.5,55,50,50,68,90,65,50,55,82,410
+445,Garchomp,ˈɡɑːɹtʃɑːmp,Gabite,,3,3c,FALSE,FALSE,"Dragon, Ground",209.4,75,50,50,108,130,95,80,85,102,600
+446,Munchlax,ˈmʌntʃlæks,,Snorlax,2,2a,TRUE,FALSE,Normal,231.5,24,87.5,12.5,135,85,40,40,85,5,390
+447,Riolu,ɹiːˈoʊluː,,Lucario,2,2a,TRUE,FALSE,Fighting,44.5,28,87.5,12.5,40,70,40,35,40,60,285
+448,Lucario,luːˈkɑːɹiːoʊ,Riolu,,2,2b,FALSE,FALSE,"Fighting, Steel",119,47,87.5,12.5,70,110,70,115,70,90,525
+449,Hippopotas,hɪpoʊpəˈtɑːs,,Hippowdon,2,2a,FALSE,FALSE,Ground,109.1,31,50,50,68,72,78,38,42,32,330
+450,Hippowdon,hɪˈpaʊdɑːn,Hippopotas,,2,2b,FALSE,FALSE,Ground,661.4,79,50,50,108,112,118,68,72,47,525
+451,Skorupi,skɔːɹˈuːpiː,,Drapion,2,2a,FALSE,FALSE,"Poison, Bug",26.5,31,50,50,40,50,90,30,55,65,330
+452,Drapion,ˈdɹæpiːɑːn,Skorupi,,2,2b,FALSE,FALSE,"Poison, Dark",135.6,51,50,50,70,90,110,60,75,95,500
+453,Croagunk,ˈkɹoʊɡʌŋk,,Toxicroak,2,2a,FALSE,FALSE,"Poison, Fighting",50.7,28,50,50,48,61,40,61,40,50,300
+454,Toxicroak,ˈtɑːksɪkɹoʊk,Croagunk,,2,2b,FALSE,FALSE,"Poison, Fighting",97.9,51,50,50,83,106,65,86,65,85,490
+455,Carnivine,ˈkɑːɹnɪvaɪn,,,1,1a,FALSE,FALSE,Grass,59.5,55,50,50,74,100,72,90,72,46,454
+456,Finneon,ˈfɪniːɑːn,,Lumineon,2,2a,FALSE,FALSE,Water,15.4,16,50,50,49,49,56,49,61,66,330
+457,Lumineon,luːˈmɪniːɑːn,Finneon,,2,2b,FALSE,FALSE,Water,52.9,47,50,50,69,69,76,69,86,91,460
+458,Mantyke,ˈmæntɑɪk,,Mantine,2,2a,TRUE,FALSE,"Water, Flying",143.3,39,50,50,45,20,50,60,120,50,345
+459,Snover,ˈsnoʊvɚ,,Abomasnow,2,2a,FALSE,FALSE,"Grass, Ice",111.3,39,50,50,60,62,50,62,60,40,334
+460,Abomasnow,əˈbɑːməsnoʊ,Snover,,2,2b,FALSE,FALSE,"Grass, Ice",298.7,87,50,50,90,92,75,92,85,60,494
+461,Weavile,ˈwiːvaɪl,Sneasel,,2,2b,FALSE,FALSE,"Dark, Ice",75,43,50,50,70,120,65,45,85,125,510
+462,Magnezone,ˈmæɡnəzoʊn,Magneton,,3,3c,FALSE,FALSE,"Electric, Steel",396.8,47,,,70,70,115,130,90,60,535
+463,Lickilicky,ˌlɪkiːˈlɪkiː,Lickitung,,2,2b,FALSE,FALSE,Normal,308.6,67,50,50,110,85,95,80,95,50,515
+464,Rhyperior,ˈɹɑːɪpɪɹiːɚ,Rhydon,,3,3c,FALSE,FALSE,"Ground, Rock",623.5,94,50,50,115,140,130,55,55,40,535
+465,Tangrowth,ˈtæŋɡroʊθ,Tangela,,2,2b,FALSE,FALSE,Grass,283.5,79,50,50,100,100,125,110,50,50,535
+466,Electivire,ɪˈlɛktəvɑɪɹ,Electabuzz,,3,3c,FALSE,FALSE,Electric,305.6,71,75,25,75,123,67,95,85,95,540
+467,Magmortar,mæɡˈmɔːɹtɚ,Magmar,,3,3c,FALSE,FALSE,Fire,149.9,63,75,25,75,95,67,125,95,83,540
+468,Togekiss,ˈtoʊɡəkɪs,Togetic,,3,3c,FALSE,FALSE,"Fairy, Flying",83.8,59,87.5,12.5,85,50,95,120,115,80,545
+469,Yanmega,jænˈmɛɡə,Yanma,,2,2b,FALSE,FALSE,"Bug, Flying",113.5,75,50,50,86,76,86,116,56,95,515
+470,Leafeon,ˈliːfiːɑːn,Eevee,,2,2b,FALSE,FALSE,Grass,56.2,39,87.5,12.5,65,110,130,60,65,95,525
+471,Glaceon,ˈɡleɪsiːɑːn,Eevee,,2,2b,FALSE,FALSE,Ice,57.1,31,87.5,12.5,65,60,110,130,95,65,525
+472,Gliscor,ˈɡlaɪskɔːɹ,Gligar,,2,2b,FALSE,FALSE,"Ground, Flying",93.7,79,50,50,75,95,125,45,75,95,510
+473,Mamoswine,ˈmæmoʊswaɪn,Piloswine,,3,3c,FALSE,FALSE,"Ice, Ground",641.5,98,50,50,110,130,80,70,60,80,530
+474,Porygon-Z,ˌpɔːɹiːɡɑːnˈziː,Porygon2,,3,3c,FALSE,FALSE,Normal,75,35,,,85,80,70,135,75,90,535
+475,Gallade,ɡəˈleɪd,Kirlia,,3,3c,FALSE,FALSE,"Psychic, Fighting",114.6,63,,0,68,125,65,65,115,80,518
+476,Probopass,ˈpɹoʊboʊpæs,Nosepass,,2,2b,FALSE,FALSE,"Rock, Steel",749.6,55,50,50,60,55,145,75,150,40,525
+477,Dusknoir,ˈdʌsknwɑːɹ,Dusclops,,3,3c,FALSE,FALSE,Ghost,235,87,50,50,45,100,135,65,135,45,525
+478,Froslass,ˈfɹɑːslæs,Snorunt,,2,2b,FALSE,FALSE,"Ice, Ghost",58.6,51,0,,70,80,70,80,70,110,480
+479,Rotom,ˈɹoʊtɑːm,,,1,1a,FALSE,FALSE,"Electric, Ghost, Electric, Fire, Electric, Water, Electric, Ice, Electric, Flying, Electric, Grass",0.7,12,,,50,50,77,95,77,91,440
+480,Uxie,ˈjuːksiː,,,1,1a,FALSE,TRUE,Psychic,0.7,12,,,75,75,130,75,130,95,580
+481,Mesprit,ˈmɛspɹɪt,,,1,1a,FALSE,TRUE,Psychic,0.7,12,,,80,105,105,105,105,80,580
+482,Azelf,ˈæzɛlf,,,1,1a,FALSE,TRUE,Psychic,0.7,12,,,75,125,70,125,70,115,580
+483,Dialga,diːˈɑːlɡə,,,1,1a,FALSE,TRUE,"Steel, Dragon",1505.8,213,,,100,120,120,150,100,90,680
+484,Palkia,ˈpɑːlkiːə,,,1,1a,FALSE,TRUE,"Water, Dragon",740.8,165,,,90,120,100,150,120,100,680
+485,Heatran,ˈhiːtɹæn,,,1,1a,FALSE,TRUE,"Fire, Steel",948,67,50,50,91,90,106,130,106,77,600
+486,Regigigas,ˌɹɛdʒiːˈɡiːɡəs,,,1,1a,FALSE,TRUE,Normal,925.9,146,,,110,160,110,80,110,100,670
+487,Giratina,ˌɡɪɹəˈtiːnə,,,1,1a,FALSE,TRUE,"Ghost, Dragon",1653.5,177,,,150,100,120,100,120,90,680
+488,Cresselia,kɹɛsˈɛliːə,,,1,1a,FALSE,TRUE,Psychic,188.7,59,0,,120,70,120,75,130,85,600
+489,Phione,fiːˈoʊneɪ,,,1,1a,FALSE,FALSE,Water,6.8,16,,,80,80,80,80,80,80,480
+490,Manaphy,ˈmænəfiː,,,1,1a,FALSE,FALSE,Water,3.1,12,,,100,100,100,100,100,100,600
+491,Darkrai,ˈdɑːɹkɹaɪ,,,1,1a,FALSE,FALSE,Dark,111.3,59,,,70,90,90,135,90,125,600
+492,Shaymin,ˈʃeɪmɪn,,,1,1a,FALSE,FALSE,"Grass, Flying, Grass",4.6,8,,,100,100,100,100,100,100,600
+493,Arceus,ˈɑːɹkiːəs,,,1,1a,FALSE,FALSE,Normal,705.5,126,,,120,120,120,120,120,120,720
+494,Victini,vɪkˈtiːniː,,,1,1a,FALSE,FALSE,"Psychic, Fire",8.8,16,,,100,100,100,100,100,100,600
+495,Snivy,ˈsnaɪviː,,Servine,3,3a,FALSE,FALSE,Grass,17.9,24,87.5,12.5,45,45,55,45,55,63,308
+496,Servine,ˈsɝːvaɪn,Snivy,Serperior,3,3b,FALSE,FALSE,Grass,35.3,31,87.5,12.5,60,60,75,60,75,83,413
+497,Serperior,sɚˈpɪɹiːɚ,Servine,,3,3c,FALSE,FALSE,Grass,138.9,130,87.5,12.5,75,75,95,75,95,113,528
+498,Tepig,ˈtɛpɪɡ,,Pignite,3,3a,FALSE,FALSE,Fire,21.8,20,87.5,12.5,65,63,45,45,45,45,308
+499,Pignite,pɪɡˈnaɪt,Tepig,Emboar,3,3b,FALSE,FALSE,"Fire, Fighting",122.4,39,87.5,12.5,90,93,55,70,55,55,418
+500,Emboar,ˈɛmbɔːɹ,Pignite,,3,3c,FALSE,FALSE,"Fire, Fighting",330.7,63,87.5,12.5,110,123,65,100,65,65,528
+501,Oshawott,ˈɑːʃəwɑːt,,Dewott,3,3a,FALSE,FALSE,Water,13,20,87.5,12.5,55,55,45,63,45,45,308
+502,Dewott,ˈduwɑːt,Oshawott,Samurott,3,3b,FALSE,FALSE,Water,54,31,87.5,12.5,75,75,60,83,60,60,413
+503,Samurott,ˈsæmɚɑːt,Dewott,,3,3c,FALSE,FALSE,"Water, Dark, Water",208.6,59,87.5,12.5,95,100,85,108,70,70,528
+504,Patrat,pəˈtɹæt,,Watchog,2,2a,FALSE,FALSE,Normal,25.6,20,50,50,45,55,39,35,39,42,255
+505,Watchog,ˈwɑːtʃɑːɡ,Patrat,,2,2b,FALSE,FALSE,Normal,59.5,43,50,50,60,85,69,60,69,77,420
+506,Lillipup,ˈlɪliːpʌp,,Herdier,3,3a,FALSE,FALSE,Normal,9,16,50,50,45,60,45,25,45,55,275
+507,Herdier,ˈhɝːdiːɚ,Lillipup,Stoutland,3,3b,FALSE,FALSE,Normal,32.4,35,50,50,65,80,65,35,65,60,370
+508,Stoutland,ˈstaʊtlənd,Herdier,,3,3c,FALSE,FALSE,Normal,134.5,47,50,50,85,100,90,45,90,80,490
+509,Purrloin,ˈpɝːlɔɪn,,Liepard,2,2a,FALSE,FALSE,Dark,22.3,16,50,50,41,50,37,50,37,66,281
+510,Liepard,ˈlaɪpɚd,Purrloin,,2,2b,FALSE,FALSE,Dark,82.7,43,50,50,64,88,50,88,50,106,446
+511,Pansage,ˈpænseɪdʒ,,Simisage,2,2a,FALSE,FALSE,Grass,23.1,24,87.5,12.5,50,53,48,53,48,64,316
+512,Simisage,ˈsɪmiːseɪdʒ,Pansage,,2,2b,FALSE,FALSE,Grass,67.2,43,87.5,12.5,75,98,63,98,63,101,498
+513,Pansear,ˈpænsɪɹ,,Simisear,2,2a,FALSE,FALSE,Fire,24.3,24,87.5,12.5,50,53,48,53,48,64,316
+514,Simisear,ˈsɪmiːsɪɹ,Pansear,,2,2b,FALSE,FALSE,Fire,61.7,39,87.5,12.5,75,98,63,98,63,101,498
+515,Panpour,ˈpænpɔːɹ,,Simipour,2,2a,FALSE,FALSE,Water,29.8,24,87.5,12.5,50,53,48,53,48,64,316
+516,Simipour,ˈsɪmiːpɔːɹ,Panpour,,2,2b,FALSE,FALSE,Water,63.9,39,87.5,12.5,75,98,63,98,63,101,498
+517,Munna,ˈmuːnə,,Musharna,2,2a,FALSE,FALSE,Psychic,51.3,24,50,50,76,25,45,67,55,24,292
+518,Musharna,muːˈʃɑːɹnə,Munna,,2,2b,FALSE,FALSE,Psychic,133.4,43,50,50,116,55,85,107,95,29,487
+519,Pidove,piːˈdʌv,,Tranquill,3,3a,FALSE,FALSE,"Normal, Flying",4.6,12,50,50,50,55,50,36,30,43,264
+520,Tranquill,ˈtɹæŋkwɪl,Pidove,Unfezant,3,3b,FALSE,FALSE,"Normal, Flying",33.1,24,50,50,62,77,62,50,42,65,358
+521,Unfezant,ʌnˈfɛzənt,Tranquill,,3,3c,FALSE,FALSE,"Normal, Flying",63.9,47,50,50,80,105,80,65,55,93,478
+522,Blitzle,ˈblɪtsəl,,Zebstrika,2,2a,FALSE,FALSE,Electric,65.7,31,50,50,45,60,32,50,32,76,295
+523,Zebstrika,zɛbˈstɹaɪkə,Blitzle,,2,2b,FALSE,FALSE,Electric,175.3,63,50,50,75,100,63,80,63,116,497
+524,Roggenrola,ˌɹɑːɡənˈɹoʊlə,,Boldore,3,3a,FALSE,FALSE,Rock,39.7,16,50,50,55,75,85,25,25,15,280
+525,Boldore,ˈboʊldɔːɹ,Roggenrola,Gigalith,3,3b,FALSE,FALSE,Rock,224.9,35,50,50,70,105,105,50,40,20,390
+526,Gigalith,ˈɡɪɡəlɪθ,Boldore,,3,3c,FALSE,FALSE,Rock,573.2,67,50,50,85,135,130,60,70,25,505
+527,Woobat,ˈwuːbæt,,Swoobat,2,2a,FALSE,FALSE,"Psychic, Flying",4.6,16,50,50,55,45,43,55,43,72,313
+528,Swoobat,ˈswuːbæt,Woobat,,2,2b,FALSE,FALSE,"Psychic, Flying",23.1,35,50,50,67,57,55,77,55,114,425
+529,Drilbur,ˈdɹɪlbɚ,,Excadrill,2,2a,FALSE,FALSE,Ground,18.7,12,50,50,60,85,40,30,45,68,328
+530,Excadrill,ˈɛksədrɪl,Drilbur,,2,2b,FALSE,FALSE,"Ground, Steel",89.1,28,50,50,110,135,60,50,65,88,508
+531,Audino,ˈɑːdɪnoʊ,,,1,1a,FALSE,FALSE,Normal,68.3,43,50,50,103,60,86,60,86,50,445
+532,Timburr,ˈtɪmbɚ,,Gurdurr,3,3a,FALSE,FALSE,Fighting,27.6,24,75,25,75,80,55,25,35,35,305
+533,Gurdurr,ˈɡɝːdɚ,Timburr,Conkeldurr,3,3b,FALSE,FALSE,Fighting,88.2,47,75,25,85,105,85,40,50,40,405
+534,Conkeldurr,kɑːŋˈkɛldɚ,Gurdurr,,3,3c,FALSE,FALSE,Fighting,191.8,55,75,25,105,140,95,55,65,45,505
+535,Tympole,ˈtɪmpɔːl,,Palpitoad,3,3a,FALSE,FALSE,Water,9.9,20,50,50,50,50,40,50,40,64,294
+536,Palpitoad,ˈpælpətoʊd,Tympole,Seismitoad,3,3b,FALSE,FALSE,"Water, Ground",37.5,31,50,50,75,65,55,65,55,69,384
+537,Seismitoad,ˈsaɪzmətoʊd,Palpitoad,,3,3c,FALSE,FALSE,"Water, Ground",136.7,59,50,50,105,85,75,85,75,74,499
+538,Throh,ˈθɹoʊ,,,1,1a,FALSE,FALSE,Fighting,122.4,51,,0,120,100,85,30,85,45,465
+539,Sawk,ˈsɑːk,,,1,1a,FALSE,FALSE,Fighting,112.4,55,,0,75,125,75,30,75,85,465
+540,Sewaddle,səˈwɑːdəl,,Swadloon,3,3a,FALSE,FALSE,"Bug, Grass",5.5,12,50,50,45,53,70,40,60,42,310
+541,Swadloon,swɑːdˈluːn,Sewaddle,Leavanny,3,3b,FALSE,FALSE,"Bug, Grass",16.1,20,50,50,55,63,90,50,80,42,380
+542,Leavanny,liːˈvæniː,Swadloon,,3,3c,FALSE,FALSE,"Bug, Grass",45.2,47,50,50,75,103,80,70,70,92,490
+543,Venipede,ˈvɛnɪpiːd,,Whirlipede,3,3a,FALSE,FALSE,"Bug, Poison",11.7,16,50,50,30,45,59,30,39,57,260
+544,Whirlipede,ˈhwɝːlɪpiːd,Venipede,Scolipede,3,3b,FALSE,FALSE,"Bug, Poison",129,47,50,50,40,55,99,40,79,47,360
+545,Scolipede,ˈskoʊlɪpiːd,Whirlipede,,3,3c,FALSE,FALSE,"Bug, Poison",442,98,50,50,60,90,89,55,69,112,475
+546,Cottonee,ˈkɑːʔəniː,,Whimsicott,2,2a,FALSE,FALSE,"Grass, Fairy",1.3,12,50,50,40,27,60,37,50,66,280
+547,Whimsicott,ˈhwɪmsɪkɑːt,Cottonee,,2,2b,FALSE,FALSE,"Grass, Fairy",14.6,28,50,50,60,67,85,77,75,116,480
+548,Petilil,ˈpɛɾəlɪl,,Lilligant,2,2a,FALSE,FALSE,Grass,14.6,20,0,,45,35,50,70,50,30,280
+549,Lilligant,ˈlɪləɡənt,Petilil,,2,2b,FALSE,FALSE,"Grass, Fighting, Grass",35.9,43,0,,70,60,75,110,75,90,480
+550,Basculin,ˈbæskjuːlɪn,,Basculegion,2,2a,FALSE,FALSE,Water,39.7,39,50,50,70,92,65,80,55,98,460
+551,Sandile,ˈsændaɪl,,Krokorok,3,3a,FALSE,FALSE,"Ground, Dark",33.5,28,50,50,50,72,35,35,35,65,292
+552,Krokorok,ˈkɹɑːkoʊɹɑːk,Sandile,Krookodile,3,3b,FALSE,FALSE,"Ground, Dark",73.6,39,50,50,60,82,45,45,45,74,351
+553,Krookodile,ˈkɹʊkoʊdaɪl,Krokorok,,3,3c,FALSE,FALSE,"Ground, Dark",212.3,59,50,50,95,117,70,65,70,92,509
+554,Darumaka,dɑːɹuːˈmɑːkə,,Darmanitan,2,2a,FALSE,FALSE,"Fire,, Ice",82.7,24,50,50,70,90,45,15,45,50,315
+555,Darmanitan,dɑːɹˈmænɪtæn,Darumaka,,2,2b,FALSE,FALSE,"Fire, Psychic, Ice, Fire, Fire,, Ice",204.8,51,50,50,105,140,55,30,55,95,480
+556,Maractus,məˈɹæktəs,,,1,1a,FALSE,FALSE,Grass,61.7,39,50,50,75,86,67,106,67,60,461
+557,Dwebble,ˈdwɛbəl,,Crustle,2,2a,FALSE,FALSE,"Bug, Rock",32,12,50,50,50,65,85,35,35,55,325
+558,Crustle,ˈkɹʌstəl,Dwebble,,2,2b,FALSE,FALSE,"Bug, Rock",440.9,55,50,50,70,95,125,65,75,45,475
+559,Scraggy,ˈskɹæɡiː,,Scrafty,2,2a,FALSE,FALSE,"Dark, Fighting",26,24,50,50,50,75,70,35,70,48,348
+560,Scrafty,ˈskɹæftiː,Scraggy,,2,2b,FALSE,FALSE,"Dark, Fighting",66.1,43,50,50,65,90,115,45,115,58,488
+561,Sigilyph,ˈsɪdʒəlɪf,,,1,1a,FALSE,FALSE,"Psychic, Flying",30.9,55,50,50,72,58,80,103,80,97,490
+562,Yamask,ˈjɑːmæsk,,"Cofagrigus, Runerigus",2,2a,FALSE,FALSE,"Ground, Ghost, Ghost",3.3,20,50,50,38,30,85,55,65,30,303
+563,Cofagrigus,ˌkɑːfəˈɡɹiːɡəs,Yamask,,2,2b,FALSE,FALSE,Ghost,168.7,67,50,50,58,50,145,95,105,30,483
+564,Tirtouga,tɪɹˈtuːɡə,,Carracosta,2,2a,FALSE,FALSE,"Water, Rock",36.4,28,87.5,12.5,54,78,103,53,45,22,355
+565,Carracosta,ˌkɑːɹəˈkɑːstə,Tirtouga,,2,2b,FALSE,FALSE,"Water, Rock",178.6,47,87.5,12.5,74,108,133,83,65,32,495
+566,Archen,ˈɑːɹkən,,Archeops,2,2a,FALSE,FALSE,"Rock, Flying",20.9,20,87.5,12.5,55,112,45,74,45,70,401
+567,Archeops,ˈɑːɹkiːɑːps,Archen,,2,2b,FALSE,FALSE,"Rock, Flying",70.5,55,87.5,12.5,75,140,65,112,65,110,567
+568,Trubbish,ˈtɹʌbɪʃ,,Garbodor,2,2a,FALSE,FALSE,Poison,68.3,24,50,50,50,50,62,40,62,65,329
+569,Garbodor,ɡɑːɹˈboʊdɚ,Trubbish,,2,2b,FALSE,FALSE,Poison,236.6,75,50,50,80,95,82,60,82,75,474
+570,Zorua,ˈzɔːɹuːə,,Zoroark,2,2a,FALSE,FALSE,"Normal, Ghost, Dark",27.6,28,87.5,12.5,40,65,40,80,40,65,330
+571,Zoroark,ˈzɔːɹoʊɑːɹk,Zorua,,2,2b,FALSE,FALSE,"Normal, Ghost, Dark",178.8,63,87.5,12.5,60,105,60,120,60,105,510
+572,Minccino,mɪnˈtʃiːnoʊ,,Cinccino,2,2a,FALSE,FALSE,Normal,12.8,16,25,75,55,50,40,40,40,75,300
+573,Cinccino,tʃɪnˈtʃiːnoʊ,Minccino,,2,2b,FALSE,FALSE,Normal,16.5,20,25,75,75,95,60,65,60,115,470
+574,Gothita,ɡɑːθˈiːɾə,,Gothorita,3,3a,FALSE,FALSE,Psychic,12.8,16,25,75,45,30,50,55,65,45,290
+575,Gothorita,ˌɡɑːθɔːɹˈiːɾə,Gothita,Gothitelle,3,3b,FALSE,FALSE,Psychic,39.7,28,25,75,60,45,70,75,85,55,390
+576,Gothitelle,ˈɡɑːθɪtɛl,Gothorita,,3,3c,FALSE,FALSE,Psychic,97,59,25,75,70,55,95,95,110,65,490
+577,Solosis,soʊˈloʊsɪs,,Duosion,3,3a,FALSE,FALSE,Psychic,2.2,12,50,50,45,30,40,105,50,20,290
+578,Duosion,duːˈoʊʒən,Solosis,Reuniclus,3,3b,FALSE,FALSE,Psychic,17.6,24,50,50,65,40,50,125,60,30,370
+579,Reuniclus,ˌɹiːjuːˈniːkləs,Duosion,,3,3c,FALSE,FALSE,Psychic,44.3,39,50,50,110,65,75,125,85,30,490
+580,Ducklett,ˈdʌklət,,Swanna,2,2a,FALSE,FALSE,"Water, Flying",12.1,20,50,50,62,44,50,44,50,55,305
+581,Swanna,ˈswɑːnə,Ducklett,,2,2b,FALSE,FALSE,"Water, Flying",53.4,51,50,50,75,87,63,87,63,98,473
+582,Vanillite,vəˈnɪlaɪt,,Vanillish,3,3a,FALSE,FALSE,Ice,12.6,16,50,50,36,50,50,65,60,44,305
+583,Vanillish,vəˈnɪlɪʃ,Vanillite,Vanilluxe,3,3b,FALSE,FALSE,Ice,90.4,43,50,50,51,65,65,80,75,59,395
+584,Vanilluxe,vəˈnɪlʌks,Vanillish,,3,3c,FALSE,FALSE,Ice,126.8,51,50,50,71,95,85,110,95,79,535
+585,Deerling,ˈdɪɹlɪŋ,,Sawsbuck,2,2a,FALSE,FALSE,"Normal, Grass",43,24,50,50,60,60,50,40,50,75,335
+586,Sawsbuck,ˈsɑːzbʌk,Deerling,,2,2b,FALSE,FALSE,"Normal, Grass",203.9,75,50,50,80,100,70,60,70,95,475
+587,Emolga,əˈmɔːlɡə,,,1,1a,FALSE,FALSE,"Electric, Flying",11,16,50,50,55,75,60,75,60,103,428
+588,Karrablast,ˈkɑːɹəblæst,,Escavalier,2,2a,FALSE,FALSE,Bug,13,20,50,50,50,75,45,40,45,60,315
+589,Escavalier,ˌɛskævəˈlɪɹ,Karrablast,,2,2b,FALSE,FALSE,"Bug, Steel",72.8,39,50,50,70,135,105,60,105,20,495
+590,Foongus,ˈfuːŋɡəs,,Amoonguss,2,2a,FALSE,FALSE,"Grass, Poison",2.2,8,50,50,69,55,45,55,55,15,294
+591,Amoonguss,əˈmuːŋɡəs,Foongus,,2,2b,FALSE,FALSE,"Grass, Poison",23.1,24,50,50,114,85,70,85,80,30,464
+592,Frillish,ˈfɹɪlɪʃ,,Jellicent,2,2a,FALSE,FALSE,"Water, Ghost",72.8,47,50,50,55,40,50,65,85,40,335
+593,Jellicent,ˈdʒɛlɪsənt,Frillish,,2,2b,FALSE,FALSE,"Water, Ghost",297.6,87,50,50,100,60,70,85,105,60,480
+594,Alomomola,əˌloʊməˈmoʊlə,,,1,1a,FALSE,FALSE,Water,69.7,47,50,50,165,75,80,40,45,65,470
+595,Joltik,ˈdʒɔːltɪk,,Galvantula,2,2a,FALSE,FALSE,"Bug, Electric",1.3,4,50,50,50,47,50,57,50,65,319
+596,Galvantula,ɡælˈvæntʃuːlə,Joltik,,2,2b,FALSE,FALSE,"Bug, Electric",31.5,31,50,50,70,77,60,97,60,108,472
+597,Ferroseed,fɚˈɑːsiːd,,Ferrothorn,2,2a,FALSE,FALSE,"Grass, Steel",41.4,24,50,50,44,50,91,24,86,10,305
+598,Ferrothorn,fɚˈɑːθɔːɹn,Ferroseed,,2,2b,FALSE,FALSE,"Grass, Steel",242.5,39,50,50,74,94,131,54,116,20,489
+599,Klink,ˈklɪŋk,,Klang,3,3a,FALSE,FALSE,Steel,46.3,12,,,40,55,70,45,60,30,300
+600,Klang,ˈklæŋ,Klink,Klinklang,3,3b,FALSE,FALSE,Steel,112.4,24,,,60,80,95,70,85,50,440
+601,Klinklang,ˈklɪŋklæŋ,Klang,,3,3c,FALSE,FALSE,Steel,178.6,24,,,60,100,115,70,85,90,520
+602,Tynamo,ˈtaɪnəmoʊ,,Eelektrik,3,3a,FALSE,FALSE,Electric,0.7,8,50,50,35,55,40,45,40,60,275
+603,Eelektrik,ˈiːlɛktɹɪk,Tynamo,Eelektross,3,3b,FALSE,FALSE,Electric,48.5,47,50,50,65,85,70,75,70,40,405
+604,Eelektross,ˈiːlɛktɹaːs,Eelektrik,,3,3c,FALSE,FALSE,Electric,177.5,83,50,50,85,115,80,105,80,50,515
+605,Elgyem,ˈɛldʒiːjɛm,,Beheeyem,2,2a,FALSE,FALSE,Psychic,19.8,20,50,50,55,55,55,85,55,30,335
+606,Beheeyem,ˈbiːhiːjɛm,Elgyem,,2,2b,FALSE,FALSE,Psychic,76.1,39,50,50,75,75,75,125,95,40,485
+607,Litwick,ˈlɪtwɪk,,Lampent,3,3a,FALSE,FALSE,"Ghost, Fire",6.8,12,50,50,50,30,55,65,55,20,275
+608,Lampent,ˈlæmpɛnt,Litwick,Chandelure,3,3b,FALSE,FALSE,"Ghost, Fire",28.7,24,50,50,60,40,60,95,60,55,370
+609,Chandelure,ʃændəˈlʊəɹ,Lampent,,3,3c,FALSE,FALSE,"Ghost, Fire",75.6,39,50,50,60,55,90,145,90,80,520
+610,Axew,ˈæksjuː,,Fraxure,3,3a,FALSE,FALSE,Dragon,39.7,24,50,50,46,87,60,30,40,57,320
+611,Fraxure,ˈfɹækʃɚ,Axew,Haxorus,3,3b,FALSE,FALSE,Dragon,79.4,39,50,50,66,117,70,40,50,67,410
+612,Haxorus,ˈhæksɔːɹəs,Fraxure,,3,3c,FALSE,FALSE,Dragon,232.6,71,50,50,76,147,90,60,70,97,540
+613,Cubchoo,ˈkʌbtʃuː,,Beartic,2,2a,FALSE,FALSE,Ice,18.7,20,50,50,55,70,40,60,40,40,305
+614,Beartic,ˈbɛɹtɪk,Cubchoo,,2,2b,FALSE,FALSE,Ice,573.2,102,50,50,95,110,80,70,80,50,485
+615,Cryogonal,kɹaɪˈɑːɡənəl,,,1,1a,FALSE,FALSE,Ice,326.3,43,,,70,50,30,95,135,105,485
+616,Shelmet,ˈʃɛlmət,,Accelgor,2,2a,FALSE,FALSE,Bug,17,16,50,50,50,40,85,40,65,25,305
+617,Accelgor,ækˈsɛlɡɔːɹ,Shelmet,,2,2b,FALSE,FALSE,Bug,55.8,31,50,50,80,70,40,100,60,145,495
+618,Stunfisk,ˈstʌnfɪsk,,,1,1a,FALSE,FALSE,"Ground, Electric, Ground, Steel",24.3,28,50,50,109,66,84,81,99,32,471
+619,Mienfoo,ˈmiːnfuː,,Mienshao,2,2a,FALSE,FALSE,Fighting,44.1,35,50,50,45,85,50,55,50,65,350
+620,Mienshao,ˈmiːnʃaʊ,Mienfoo,,2,2b,FALSE,FALSE,Fighting,78.3,55,50,50,65,125,60,95,60,105,510
+621,Druddigon,ˈdɹʌdɪɡən,,,1,1a,FALSE,FALSE,Dragon,306.4,63,50,50,77,120,90,60,90,48,485
+622,Golett,ˈɡɔːlɛt,,Golurk,2,2a,FALSE,FALSE,"Ground, Ghost",202.8,39,,,59,74,50,35,50,35,303
+623,Golurk,ˈɡɔːlɚk,Golett,,2,2b,FALSE,FALSE,"Ground, Ghost",727.5,110,,,89,124,80,55,80,55,483
+624,Pawniard,ˈpɑːnjɑːɹd,,Bisharp,3,3a,FALSE,FALSE,"Dark, Steel",22.5,20,50,50,45,85,70,40,40,60,340
+625,Bisharp,ˈbɪʃɑːɹp,Pawniard,Kingambit,3,3b,FALSE,FALSE,"Dark, Steel",154.3,63,50,50,65,125,100,60,70,70,490
+626,Bouffalant,ˈbuːfəlɑːnt,,,1,1a,FALSE,FALSE,Normal,208.6,63,50,50,95,110,95,40,95,55,490
+627,Rufflet,ˈɹʌflət,,Braviary,2,2a,FALSE,FALSE,"Normal, Flying",23.1,20,,0,70,83,50,37,50,60,350
+628,Braviary,ˈbɹeɪviːɛɹiː,Rufflet,,2,2b,FALSE,FALSE,"Normal, Flying, Psychic, Flying",90.4,59,,0,100,123,75,57,75,80,510
+629,Vullaby,ˈvʌləbaɪ,,Mandibuzz,2,2a,FALSE,FALSE,"Dark, Flying",19.8,20,0,,70,55,75,45,65,60,370
+630,Mandibuzz,ˈmændɪbʌz,Vullaby,,2,2b,FALSE,FALSE,"Dark, Flying",87.1,47,0,,110,65,105,55,95,80,510
+631,Heatmor,ˈhiːʔmɔːɹ,,,1,1a,FALSE,FALSE,Fire,127.9,55,50,50,85,97,66,105,66,65,484
+632,Durant,dɚˈænt,,,1,1a,FALSE,FALSE,"Bug, Steel",72.8,12,50,50,58,109,112,48,48,109,484
+633,Deino,ˈdaɪnoʊ,,Zweilous,3,3a,FALSE,FALSE,"Dark, Dragon",38.1,31,50,50,52,65,50,45,50,38,300
+634,Zweilous,ˈzvaɪləs,Deino,Hydreigon,3,3b,FALSE,FALSE,"Dark, Dragon",110.2,55,50,50,72,85,70,65,70,58,420
+635,Hydreigon,̩haɪˈdraɪɡən,Zweilous,,3,3c,FALSE,FALSE,"Dark, Dragon",352.7,71,50,50,92,105,90,125,90,98,600
+636,Larvesta,lɑːɹˈvɛstə,,Volcarona,2,2a,FALSE,FALSE,"Bug, Fire",63.5,43,50,50,55,85,55,50,55,60,360
+637,Volcarona,ˌvɑːlkəˈɹoʊnə,Larvesta,,2,2b,FALSE,FALSE,"Bug, Fire",101.4,63,50,50,85,60,65,135,105,100,550
+638,Cobalion,koʊˈbeɪliːən,,,1,1a,FALSE,TRUE,"Steel, Fighting",551.2,83,,,91,90,129,90,72,108,580
+639,Terrakion,tɚˈækiːən,,,1,1a,FALSE,TRUE,"Rock, Fighting",573.2,75,,,91,129,90,72,90,108,580
+640,Virizion,vɚˈaɪziːən,,,1,1a,FALSE,TRUE,"Grass, Fighting",440.9,79,,,91,90,72,90,129,108,580
+641,Tornadus,tɔːɹˈneɪdəs,,,1,1a,FALSE,TRUE,Flying,138.9,59,,0,79,115,70,125,80,111,580
+642,Thundurus,ˈθʌndɚəs,,,1,1a,FALSE,TRUE,"Electric, Flying",134.5,59,,0,79,115,70,125,80,111,580
+643,Reshiram,ˈɹɛʃəɹæm,,,1,1a,FALSE,TRUE,"Dragon, Fire",727.5,126,,,100,120,100,150,120,90,680
+644,Zekrom,ˈzɛkɹɑːm,,,1,1a,FALSE,TRUE,"Dragon, Electric",760.6,114,,,100,150,120,120,100,90,680
+645,Landorus,ˈlændɚəs,,,1,1a,FALSE,TRUE,"Ground, Flying",149.9,59,,0,89,125,90,115,80,101,600
+646,Kyurem,ˈkjuːɹɛm,,,1,1a,FALSE,TRUE,"Dragon, Ice",716.5,118,,,125,130,90,130,90,95,660
+647,Keldeo,ˈkɛldiːoʊ,,,1,1a,FALSE,FALSE,"Water, Fighting",106.9,55,,,91,72,90,129,90,108,580
+648,Meloetta,ˌmɛloʊˈɛɾə,,,1,1a,FALSE,FALSE,"Normal, Psychic, Normal, Fighting",14.3,24,,,100,77,77,128,128,90,600
+649,Genesect,ˈdʒɛnəsɛkt,,,1,1a,FALSE,FALSE,"Bug, Steel",181.9,59,,,71,120,95,120,95,99,600
+650,Chespin,ˈtʃɛspɪn,,Quilladin,3,3a,FALSE,FALSE,Grass,19.8,16,87.5,12.5,56,61,65,48,45,38,313
+651,Quilladin,ˈkwɪlədɪn,Chespin,Chesnaught,3,3b,FALSE,FALSE,Grass,63.9,28,87.5,12.5,61,78,95,56,58,57,405
+652,Chesnaught,ˈtʃɛsnɑːt,Quilladin,,3,3c,FALSE,FALSE,"Grass, Fighting",198.4,63,87.5,12.5,88,107,122,74,75,64,530
+653,Fennekin,ˈfɛnəkɪn,,Braixen,3,3a,FALSE,FALSE,Fire,20.7,16,87.5,12.5,40,45,40,62,60,60,307
+654,Braixen,ˈbɹeɪksɪn,Fennekin,Delphox,3,3b,FALSE,FALSE,Fire,32,39,87.5,12.5,59,59,58,90,70,73,409
+655,Delphox,ˈdɛlfɑːks,Braixen,,3,3c,FALSE,FALSE,"Fire, Psychic",86,59,87.5,12.5,75,69,72,114,100,104,534
+656,Froakie,ˈfɹoʊkiː,,Frogadier,3,3a,FALSE,FALSE,Water,15.4,12,87.5,12.5,41,56,40,62,44,71,314
+657,Frogadier,fɹɑːɡəˈdɪɹ,Froakie,Greninja,3,3b,FALSE,FALSE,Water,24,24,87.5,12.5,54,63,52,83,56,97,405
+658,Greninja,ɡɹəˈnɪndʒə,Frogadier,,3,3c,FALSE,FALSE,"Water, Dark",88.2,59,87.5,12.5,72,95,67,103,71,122,530
+659,Bunnelby,ˈbʌnəlbiː,,Diggersby,2,2a,FALSE,FALSE,Normal,11,16,50,50,38,36,38,32,36,57,237
+660,Diggersby,ˈdɪɡɚzbiː,Bunnelby,,2,2b,FALSE,FALSE,"Normal, Ground",93.5,39,50,50,85,56,77,50,77,78,423
+661,Fletchling,ˈflɛtʃlɪŋ,,Fletchinder,3,3a,FALSE,FALSE,"Normal, Flying",3.7,12,50,50,45,50,43,40,38,62,278
+662,Fletchinder,ˈflɛtʃɪndɚ,Fletchling,Talonflame,3,3b,FALSE,FALSE,"Fire, Flying",35.3,28,50,50,62,73,55,56,52,84,382
+663,Talonflame,ˈtælənfleɪm,Fletchinder,,3,3c,FALSE,FALSE,"Fire, Flying",54,47,50,50,78,81,71,74,69,126,499
+664,Scatterbug,ˈskætɚbʌɡ,,Spewpa,3,3a,FALSE,FALSE,Bug,5.5,12,50,50,38,35,40,27,25,35,200
+665,Spewpa,ˈspjuːpə,Scatterbug,Vivillon,3,3b,FALSE,FALSE,Bug,18.5,12,50,50,45,22,60,27,30,29,213
+666,Vivillon,ˈvɪviːjɑːn,Spewpa,,3,3c,FALSE,FALSE,"Bug, Flying",37.5,47,50,50,80,52,50,90,50,89,411
+667,Litleo,ˈlɪtliːoʊ,,Pyroar,2,2a,FALSE,FALSE,"Fire, Normal",29.8,24,12.5,87.5,62,50,58,73,54,72,369
+668,Pyroar,ˈpaɪɹɔːɹ,Litleo,,2,2b,FALSE,FALSE,"Fire, Normal",179.7,59,12.5,87.5,86,68,72,109,66,106,507
+669,Flabébé,fləˈbeɪbeɪ,,Floette,3,3a,FALSE,FALSE,Fairy,0.2,4,0,,44,38,39,61,79,42,303
+670,Floette,floʊˈɛt,Flabébé,Florges,3,3b,FALSE,FALSE,Fairy,2,8,0,,54,45,47,75,98,52,371
+671,Florges,ˈflɔːɹdʒɪs,Floette,,3,3c,FALSE,FALSE,Fairy,22,43,0,,78,65,68,112,154,75,552
+672,Skiddo,skɪˈduː,,Gogoat,2,2a,FALSE,FALSE,Grass,68.3,35,50,50,66,65,48,62,57,52,350
+673,Gogoat,ˈɡoʊɡoʊt,Skiddo,,2,2b,FALSE,FALSE,Grass,200.6,67,50,50,123,100,62,97,81,68,531
+674,Pancham,ˈpæntʃəm,,Pangoro,2,2a,FALSE,FALSE,Fighting,17.6,24,50,50,67,82,62,46,48,43,348
+675,Pangoro,ˈpæŋɡɚoʊ,Pancham,,2,2b,FALSE,FALSE,"Fighting, Dark",299.8,83,50,50,95,124,78,69,71,58,495
+676,Furfrou,ˈfɝːfɹuː,,,1,1a,FALSE,FALSE,Normal,61.7,47,50,50,75,80,60,65,90,102,472
+677,Espurr,ˈɛspɚ,,Meowstic,2,2a,FALSE,FALSE,Psychic,7.7,12,50,50,62,48,54,63,60,68,355
+678,Meowstic,miˈaʊstɪk,Espurr,,2,2b,FALSE,FALSE,Psychic,18.7,24,50,50,74,48,76,83,81,104,466
+679,Honedge,ˈhoʊnɛdʒ,,Doublade,3,3a,FALSE,FALSE,"Steel, Ghost",4.4,31,50,50,45,80,100,35,37,28,325
+680,Doublade,ˈdʌbleɪd,Honedge,Aegislash,3,3b,FALSE,FALSE,"Steel, Ghost",9.9,31,50,50,59,110,150,45,49,35,448
+681,Aegislash,ˈiːdʒɪslæʃ,Doublade,,3,3c,FALSE,FALSE,"Steel, Ghost",116.8,67,50,50,60,50,150,50,150,60,520
+682,Spritzee,ˈspɹɪtsiː,,Aromatisse,2,2a,FALSE,FALSE,Fairy,1.1,8,50,50,78,52,60,63,65,23,341
+683,Aromatisse,əɹoʊməˈtiːs,Spritzee,,2,2b,FALSE,FALSE,Fairy,34.2,31,50,50,101,72,72,99,89,29,462
+684,Swirlix,ˈswɝːlɪks,,Slurpuff,2,2a,FALSE,FALSE,Fairy,7.7,16,50,50,62,48,66,59,57,49,341
+685,Slurpuff,ˈslɝːpʌf,Swirlix,,2,2b,FALSE,FALSE,Fairy,11,31,50,50,82,80,86,85,75,72,480
+686,Inkay,ˈɪŋkeɪ,,Malamar,2,2a,FALSE,FALSE,"Dark, Psychic",7.7,16,50,50,53,54,53,37,46,45,288
+687,Malamar,ˈmæləmɑːɹ,Inkay,,2,2b,FALSE,FALSE,"Dark, Psychic",103.6,59,50,50,86,92,88,68,75,73,482
+688,Binacle,ˈbaɪnəkəl,,Barbaracle,2,2a,FALSE,FALSE,"Rock, Water",68.3,20,50,50,42,52,67,39,56,50,306
+689,Barbaracle,bɑːɹˈbɛɹəkəl,Binacle,,2,2b,FALSE,FALSE,"Rock, Water",211.6,51,50,50,72,105,115,54,86,68,500
+690,Skrelp,ˈskɹɛlp,,Dragalge,2,2a,FALSE,FALSE,"Poison, Water",16.1,20,50,50,50,60,60,60,60,30,320
+691,Dragalge,dɹəˈɡældʒiː,Skrelp,,2,2b,FALSE,FALSE,"Poison, Dragon",179.7,71,50,50,65,75,90,97,123,44,494
+692,Clauncher,ˈklɑːntʃɚ,,Clawitzer,2,2a,FALSE,FALSE,Water,18.3,20,50,50,50,53,62,58,63,44,330
+693,Clawitzer,ˈklɑːwɪtsɚ,Clauncher,,2,2b,FALSE,FALSE,Water,77.8,51,50,50,71,73,88,120,89,59,500
+694,Helioptile,hiːliːˈɑːptaɪl,,Heliolisk,2,2a,FALSE,FALSE,"Electric, Normal",13.2,20,50,50,44,38,33,61,43,70,289
+695,Heliolisk,ˈhiːliːoʊlɪsk,Helioptile,,2,2b,FALSE,FALSE,"Electric, Normal",46.3,39,50,50,62,55,52,109,94,109,481
+696,Tyrunt,ˈtaɪɹʌnt,,Tyrantrum,2,2a,FALSE,FALSE,"Rock, Dragon",57.3,31,87.5,12.5,58,89,77,45,45,48,362
+697,Tyrantrum,taɪˈɹæntɹʌm,Tyrunt,,2,2b,FALSE,FALSE,"Rock, Dragon",595.2,98,87.5,12.5,82,121,119,69,59,71,521
+698,Amaura,əˈmɔːɹə,,Aurorus,2,2a,FALSE,FALSE,"Rock, Ice",55.6,51,87.5,12.5,77,59,50,67,63,46,362
+699,Aurorus,əˈɹɔːɹəs,Amaura,,2,2b,FALSE,FALSE,"Rock, Ice",496,106,87.5,12.5,123,77,72,99,92,58,521
+700,Sylveon,ˈsɪlviːɑːn,Eevee,,2,2b,FALSE,FALSE,Fairy,51.8,39,87.5,12.5,95,65,65,110,130,60,525
+701,Hawlucha,hɑːˈluːtʃə,,,1,1a,FALSE,FALSE,"Fighting, Flying",47.4,31,50,50,78,92,75,74,63,118,500
+702,Dedenne,dəˈdɛneɪ,,,1,1a,FALSE,FALSE,"Electric, Fairy",4.9,8,50,50,67,58,57,81,67,101,431
+703,Carbink,ˈkɑːɹbɪŋk,,,1,1a,FALSE,FALSE,"Rock, Fairy",12.6,12,,,50,50,150,50,150,50,500
+704,Goomy,ˈɡuːmiː,,Sliggoo,3,3a,FALSE,FALSE,Dragon,6.2,12,50,50,45,50,35,55,75,40,300
+705,Sliggoo,ˈslɪɡuː,Goomy,Goodra,3,3b,FALSE,FALSE,"Steel, Dragon, Dragon",38.6,31,50,50,68,75,53,83,113,60,452
+706,Goodra,ˈɡuːdɹə,Sliggoo,,3,3c,FALSE,FALSE,"Steel, Dragon, Dragon",331.8,79,50,50,90,100,70,110,150,80,600
+707,Klefki,ˈklɛfkiː,,,1,1a,FALSE,FALSE,"Steel, Fairy",6.6,8,50,50,57,80,91,80,87,75,470
+708,Phantump,ˈfæntʌmp,,Trevenant,2,2a,FALSE,FALSE,"Ghost, Grass",15.4,16,50,50,43,70,48,50,60,38,309
+709,Trevenant,ˈtɹɛvənɪnt,Phantump,,2,2b,FALSE,FALSE,"Ghost, Grass",156.5,59,50,50,85,110,76,65,82,56,474
+710,Pumpkaboo,ˈpʌmpkəbuː,,Gourgeist,2,2a,FALSE,FALSE,"Ghost, Grass",7.7,12,50,50,44,66,70,44,55,56,335
+711,Gourgeist,ˈɡɔːɹɡaɪst,Pumpkaboo,,2,2b,FALSE,FALSE,"Ghost, Grass",20.9,28,50,50,55,85,122,58,75,99,494
+712,Bergmite,ˈbɝːɡmaɪt,,Avalugg,2,2a,FALSE,FALSE,Ice,219.4,39,50,50,55,69,85,32,35,28,304
+713,Avalugg,ˈævəlʌɡ,Bergmite,,2,2b,FALSE,FALSE,"Ice, Rock, Ice",1113.3,79,50,50,95,117,184,44,46,28,514
+714,Noibat,ˈnɔɪbæt,,Noivern,2,2a,FALSE,FALSE,"Flying, Dragon",17.6,20,50,50,40,30,35,45,40,55,245
+715,Noivern,ˈnɔɪvɚn,Noibat,,2,2b,FALSE,FALSE,"Flying, Dragon",187.4,59,50,50,85,70,80,97,80,123,535
+716,Xerneas,ˈzɝːniːəs,,,1,1a,FALSE,TRUE,Fairy,474,118,,,126,131,95,131,98,99,680
+717,Yveltal,iːˈvɛltɑːl,,,1,1a,FALSE,TRUE,"Dark, Flying",447.5,228,,,126,131,95,131,98,99,680
+718,Zygarde,ˈzaɪɡɑːɹd,,,1,1a,FALSE,TRUE,"Dragon, Ground",672.4,197,,,108,100,121,81,95,95,600
+719,Diancie,daɪˈɑːnsiː,,,1,1a,FALSE,FALSE,"Rock, Fairy",19.4,28,,,50,100,150,100,150,50,600
+720,Hoopa,ˈhuːpə,,,1,1a,FALSE,FALSE,"Psychic, Ghost, Psychic, Dark",19.8,20,,,80,110,60,150,130,70,600
+721,Volcanion,vɑːlˈkaɪniːən,,,1,1a,FALSE,FALSE,"Fire, Water",429.9,67,,,80,110,120,130,90,70,600
+722,Rowlet,ˈɹaʊlət,,Dartrix,3,3a,FALSE,FALSE,"Grass, Flying",3.3,12,87.5,12.5,68,55,55,50,50,42,320
+723,Dartrix,ˈdɑːɹtrɪks,Rowlet,Decidueye,3,3b,FALSE,FALSE,"Grass, Flying",35.3,28,87.5,12.5,78,75,75,70,70,52,420
+724,Decidueye,dɪˈsɪdʒjuːaɪ,Dartrix,,3,3c,FALSE,FALSE,"Grass, Ghost, Grass, Fighting",80.7,63,87.5,12.5,78,107,75,100,100,70,530
+725,Litten,ˈlɪɾən,,Torracat,3,3a,FALSE,FALSE,Fire,9.5,16,87.5,12.5,45,65,40,60,40,70,320
+726,Torracat,ˈtɔːɹəkæt,Litten,Incineroar,3,3b,FALSE,FALSE,Fire,55.1,28,87.5,12.5,65,85,50,80,50,90,420
+727,Incineroar,ɪnˈsɪnəɹɔːɹ,Torracat,,3,3c,FALSE,FALSE,"Fire, Dark",183,71,87.5,12.5,95,115,90,80,90,60,530
+728,Popplio,ˈpɑːpliːoʊ,,Brionne,3,3a,FALSE,FALSE,Water,16.5,16,87.5,12.5,50,54,54,66,56,40,320
+729,Brionne,bɹiːˈɑːn,Popplio,Primarina,3,3b,FALSE,FALSE,Water,38.6,24,87.5,12.5,60,69,69,91,81,50,420
+730,Primarina,ˌpɹiːməˈɹinə,Brionne,,3,3c,FALSE,FALSE,"Water, Fairy",97,71,87.5,12.5,80,74,74,126,116,60,530
+731,Pikipek,ˈpɪkiːpɛk,,Trumbeak,3,3a,FALSE,FALSE,"Normal, Flying",2.6,12,50,50,35,75,30,30,30,65,265
+732,Trumbeak,ˈtɹʌmːbiːk,Pikipek,Toucannon,3,3b,FALSE,FALSE,"Normal, Flying",32.6,24,50,50,55,85,50,40,50,75,355
+733,Toucannon,tuːˈkænən,Trumbeak,,3,3c,FALSE,FALSE,"Normal, Flying",57.3,43,50,50,80,120,75,75,75,60,485
+734,Yungoos,ˈjʌŋɡuːs,,Gumshoos,2,2a,FALSE,FALSE,Normal,13.2,16,50,50,48,70,30,30,30,45,253
+735,Gumshoos,ˈɡʌmʃuːz,Yungoos,,2,2b,FALSE,FALSE,Normal,31.3,28,50,50,88,110,60,55,60,45,418
+736,Grubbin,ˈɡɹʌbɪn,,Charjabug,3,3a,FALSE,FALSE,Bug,9.7,16,50,50,47,62,45,55,45,46,300
+737,Charjabug,ˈtʃɑːɹdʒəbʌɡ,Grubbin,Vikavolt,3,3b,FALSE,FALSE,"Bug, Electric",23.1,20,50,50,57,82,95,55,75,36,400
+738,Vikavolt,ˈvaɪːkəvɔːlt,Charjabug,,3,3c,FALSE,FALSE,"Bug, Electric",99.2,59,50,50,77,70,90,145,75,43,500
+739,Crabrawler,kɹæbˈɹɑːlɚ,,Crabominable,2,2a,FALSE,FALSE,Fighting,15.4,24,50,50,47,82,57,42,47,63,338
+740,Crabominable,kræbˈɑːmɪnəbəl,Crabrawler,,2,2b,FALSE,FALSE,"Fighting, Ice",396.8,67,50,50,97,132,77,62,67,43,478
+741,Oricorio,ˌɔːɹɪˈkɔːɹiːoʊ,,,1,1a,FALSE,FALSE,"Fire, Flying, Electric, Flying, Psychic, Flying, Ghost, Flying",7.5,24,25,75,75,70,70,98,70,93,476
+742,Cutiefly,ˈkjutiːflaɪ,,Ribombee,2,2a,FALSE,FALSE,"Bug, Fairy",0.4,4,50,50,40,45,40,55,40,84,304
+743,Ribombee,ɹəˈbɑːmbiː,Cutiefly,,2,2b,FALSE,FALSE,"Bug, Fairy",1.1,8,50,50,60,55,60,95,70,124,464
+744,Rockruff,ˈɹɑːkɹʌf,,Lycanroc,2,2a,FALSE,FALSE,Rock,20.3,20,50,50,45,65,40,30,40,60,280
+745,Lycanroc,ˈlaɪkənɹɑːk,Rockruff,,2,2b,FALSE,FALSE,Rock,55.1,31,50,50,75,115,65,55,65,112,487
+746,Wishiwashi,ˈwɪʃiːˌwɑːʃi,,,1,1a,FALSE,FALSE,Water,0.7,8,50,50,45,20,20,25,25,40,175
+747,Mareanie,məˈɹiːniː,,Toxapex,2,2a,FALSE,FALSE,"Poison, Water",17.6,16,50,50,50,53,62,43,52,45,305
+748,Toxapex,ˈtɑːksəpɛks,Mareanie,,2,2b,FALSE,FALSE,"Poison, Water",32,28,50,50,50,63,152,53,142,35,495
+749,Mudbray,ˈmʌdbɹeɪ,,Mudsdale,2,2a,FALSE,FALSE,Ground,242.5,39,50,50,70,100,70,45,55,45,385
+750,Mudsdale,ˈmʌdzdeɪl,Mudbray,,2,2b,FALSE,FALSE,Ground,2028.3,98,50,50,100,125,100,55,85,35,500
+751,Dewpider,ˈduːpədɚ,,Araquanid,2,2a,FALSE,FALSE,"Water, Bug",8.8,12,50,50,38,40,52,40,72,27,269
+752,Araquanid,əˈɹæːkwənɪd,Dewpider,,2,2b,FALSE,FALSE,"Water, Bug",180.8,71,50,50,68,70,92,50,132,42,454
+753,Fomantis,foʊˈmæntɪs,,Lurantis,2,2a,FALSE,FALSE,Grass,3.3,12,50,50,40,55,35,50,35,35,250
+754,Lurantis,lɚˈæntɪs,Fomantis,,2,2b,FALSE,FALSE,Grass,40.8,35,50,50,70,105,90,80,90,45,480
+755,Morelull,ˈmɔːɹəlʊl,,Shiinotic,2,2a,FALSE,FALSE,"Grass, Fairy",3.3,8,50,50,40,35,55,65,75,15,285
+756,Shiinotic,ʃiːˈnɑːtɪk,Morelull,,2,2b,FALSE,FALSE,"Grass, Fairy",25.4,39,50,50,60,45,80,90,100,30,405
+757,Salandit,səˈlændɪt,,Salazzle,2,2a,FALSE,FALSE,"Poison, Fire",10.6,24,87.5,12.5,48,44,40,71,40,77,320
+758,Salazzle,səˈlæzəl,Salandit,,2,2b,FALSE,FALSE,"Poison, Fire",48.9,47,0,,68,64,60,111,60,117,480
+759,Stufful,ˈstʌfəl,,Bewear,2,2a,FALSE,FALSE,"Normal, Fighting",15,20,50,50,70,75,50,45,50,50,340
+760,Bewear,bəˈwɛɹ,Stufful,,2,2b,FALSE,FALSE,"Normal, Fighting",297.6,83,50,50,120,125,80,55,60,60,500
+761,Bounsweet,ˈbaʊnswiːt,,Steenee,3,3a,FALSE,FALSE,Grass,7.1,12,0,,42,30,38,30,38,32,210
+762,Steenee,ˈstiːniː,Bounsweet,Tsareena,3,3b,FALSE,FALSE,Grass,18.1,28,0,,52,40,48,40,48,62,290
+763,Tsareena,zɑːˈɹiːnə,Steenee,,3,3c,FALSE,FALSE,Grass,47.2,47,0,,72,120,98,50,98,72,510
+764,Comfey,ˈkʌmfeɪ,,,1,1a,FALSE,FALSE,Fairy,0.7,4,25,75,51,52,90,82,110,100,485
+765,Oranguru,əˈɹæŋɡəɹuː,,,1,1a,FALSE,FALSE,"Normal, Psychic",167.6,59,50,50,90,60,80,90,110,60,490
+766,Passimian,ˌpæˈsɪmiːən,,,1,1a,FALSE,FALSE,Fighting,182.5,79,50,50,100,120,90,40,60,80,490
+767,Wimpod,ˈwɪmpɑːd,,Golisopod,2,2a,FALSE,FALSE,"Bug, Water",26.5,20,50,50,25,35,40,20,30,80,230
+768,Golisopod,gəˈlaɪsoʊpɑːd,Wimpod,,2,2b,FALSE,FALSE,"Bug, Water",238.1,79,50,50,75,125,140,60,90,40,530
+769,Sandygast,ˈsændiːɡæst,,Palossand,2,2a,FALSE,FALSE,"Ghost, Ground",154.3,20,50,50,55,55,80,70,45,15,320
+770,Palossand,ˈpæləsænd,Sandygast,,2,2b,FALSE,FALSE,"Ghost, Ground",551.2,51,50,50,85,75,110,100,75,35,480
+771,Pyukumuku,ˌpjuːkuːˈmuːkuː,,,1,1a,FALSE,FALSE,Water,2.6,12,50,50,55,60,130,30,130,5,410
+772,Type: Null,ˌtaɪpˈnʊl,,Silvally,2,2a,FALSE,TRUE,Normal,265.7,75,,,95,95,95,95,95,59,534
+773,Silvally,sɪlˈvælaɪː,Type: Null,,2,2b,FALSE,TRUE,Normal,221.6,91,,,95,95,95,95,95,95,570
+774,Minior,ˈmɪniːɔːɹ,,,1,1a,FALSE,FALSE,"Rock, Flying",88.2,12,,,60,60,100,60,100,60,440
+775,Komala,koʊˈmɑːlə,,,1,1a,FALSE,FALSE,Normal,43.9,16,50,50,65,115,65,75,95,65,480
+776,Turtonator,ˈtɝːɾəneɪɾɚ,,,1,1a,FALSE,FALSE,"Fire, Dragon",467.4,79,50,50,60,78,135,91,85,36,485
+777,Togedemaru,ˌtoʊɡədɛˈmɑːɹuː,,,1,1a,FALSE,FALSE,"Electric, Steel",7.3,12,50,50,65,98,63,40,73,96,435
+778,Mimikyu,ˈmiːmiːkjuː,,,1,1a,FALSE,FALSE,"Ghost, Fairy",1.5,8,50,50,55,90,80,50,105,96,476
+779,Bruxish,ˈbɹʌksɪʃ,,,1,1a,FALSE,FALSE,"Water, Psychic",41.9,35,50,50,68,105,70,70,70,92,475
+780,Drampa,ˈdɹæmpə,,,1,1a,FALSE,FALSE,"Normal, Dragon",407.9,118,50,50,78,60,85,135,91,36,485
+781,Dhelmise,dɛlˈmaɪz,,,1,1a,FALSE,FALSE,"Ghost, Grass",463,154,,,70,131,100,86,90,40,517
+782,Jangmo-o,ˈdʒæŋmoʊˌʔoʊ,,Hakamo-o,3,3a,FALSE,FALSE,Dragon,65.5,24,50,50,45,55,65,45,45,45,300
+783,Hakamo-o,ˌhɑːkəˈmoʊʔoʊ,Jangmo-o,Kommo-o,3,3b,FALSE,FALSE,"Dragon, Fighting",103.6,47,50,50,55,75,90,65,70,65,420
+784,Kommo-o,ˈkoʊmoʊˌʔoʊ,Hakamo-o,,3,3c,FALSE,FALSE,"Dragon, Fighting",172.4,63,50,50,75,110,125,100,105,85,600
+785,Tapu Koko,ˌtɑːpuːˈkoʊkoʊ,,,1,1a,FALSE,TRUE,"Electric, Fairy",45.2,71,,,70,115,85,95,75,130,570
+786,Tapu Lele,ˌtɑːpuːˈleɪleɪ,,,1,1a,FALSE,TRUE,"Psychic, Fairy",41,47,,,70,85,75,130,115,95,570
+787,Tapu Bulu,ˌtɑːpuːˈbuːluː,,,1,1a,FALSE,TRUE,"Grass, Fairy",100.3,75,,,70,130,115,85,95,75,570
+788,Tapu Fini,ˌtɑːpuːˈfiːniː,,,1,1a,FALSE,TRUE,"Water, Fairy",46.7,51,,,70,75,115,95,130,85,570
+789,Cosmog,ˈkɑːzmɑːɡ,,Cosmoem,3,3a,FALSE,TRUE,Psychic,0.2,8,,,43,29,31,29,31,37,200
+790,Cosmoem,ˈkɑːzmoʊɛm,Cosmog,"Solgaleo, Lunala",3,3b,FALSE,TRUE,Psychic,2204.4,4,,,43,29,131,29,131,37,400
+791,Solgaleo,ˌsoʊlɡəˈleɪoʊ,Cosmoem,,3,3c,FALSE,TRUE,"Psychic, Steel",507.1,134,,,137,137,107,113,89,97,680
+792,Lunala,luːˈnɑːlə,Cosmoem,,3,3c,FALSE,TRUE,"Psychic, Ghost",264.6,157,,,137,113,89,137,107,97,680
+793,Nihilego,ˌnaɪəːˈliːɡoʊ,,,1,1a,FALSE,FALSE,"Rock, Poison",122.4,47,,,109,53,47,127,131,103,570
+794,Buzzwole,ˈbʌzwɔːl,,,1,1a,FALSE,FALSE,"Bug, Fighting",735.5,94,,,107,139,139,53,53,79,570
+795,Pheromosa,ˌfɛɹəˈmoʊsə,,,1,1a,FALSE,FALSE,"Bug, Fighting",55.1,71,,,71,137,37,137,37,151,570
+796,Xurkitree,ˈzɝkɪtriː,,,1,1a,FALSE,FALSE,Electric,220.5,150,,,83,89,71,173,71,83,570
+797,Celesteela,ˌsɛləˈstiːlə,,,1,1a,FALSE,FALSE,"Steel, Flying",2204.4,362,,,97,101,103,107,101,61,570
+798,Kartana,kɑːɹˈtɑːnə,,,1,1a,FALSE,FALSE,"Grass, Steel",0.2,12,,,59,181,131,59,31,109,570
+799,Guzzlord,ˈɡʌzlɔːɹd,,,1,1a,FALSE,FALSE,"Dark, Dragon",1957.7,217,,,223,101,53,97,53,43,570
+800,Necrozma,nɛˈkɹoʊzmə,,,1,1a,FALSE,TRUE,"Psychic, Steel, Psychic, Ghost, Psychic",507.1,94,,,97,107,101,127,89,79,600
+801,Magearna,məˈɡɪɹnə,,,1,1a,FALSE,FALSE,"Steel, Fairy",177.5,39,,,80,95,115,130,115,65,600
+802,Marshadow,ˈmɑːɹʃædoʊ,,,1,1a,FALSE,FALSE,"Fighting, Ghost",48.9,28,,,90,125,80,90,90,125,600
+803,Poipole,ˈpɔːɪpɔl,,Naganadel,2,2a,FALSE,FALSE,Poison,4,24,,,67,73,67,73,67,73,420
+804,Naganadel,ˌnɑːgəˈnɑːdəl,Poipole,,2,2b,FALSE,FALSE,"Poison, Dragon",330.7,142,,,73,73,73,127,73,121,540
+805,Stakataka,ˌstækəˈtækə,,,1,1a,FALSE,FALSE,"Rock, Steel",1807.8,217,,,61,131,211,53,101,13,570
+806,Blacephalon,bləˈsɛfəlɑːn,,,1,1a,FALSE,FALSE,"Fire, Ghost",28.7,71,,,53,127,53,151,79,107,570
+807,Zeraora,ˌzɛɹəʔˈɔːɹə,,,1,1a,FALSE,FALSE,Electric,98.1,59,,,88,112,75,102,80,143,600
+808,Meltan,ˈmɛltæn,,Melmetal,2,2a,FALSE,FALSE,Steel,17.6,8,,,46,65,65,55,35,34,300
+809,Melmetal,ˈmɛlmɛɾəl,Meltan,,2,2b,FALSE,FALSE,Steel,1763.7,98,,,135,143,143,80,65,34,600
+810,Grookey,ˈɡɹuːkiː,,Thwackey,3,3a,FALSE,FALSE,Grass,11,12,87.5,12.5,50,65,50,40,40,65,310
+811,Thwackey,ˈθwækiː,Grookey,Rillaboom,3,3b,FALSE,FALSE,Grass,30.9,28,87.5,12.5,70,85,70,55,60,80,420
+812,Rillaboom,ˈɹɪləbuːm,Thwackey,,3,3c,FALSE,FALSE,Grass,198.4,83,87.5,12.5,100,125,90,60,70,85,530
+813,Scorbunny,ˈskɔːɹbʌniː,,Raboot,3,3a,FALSE,FALSE,Fire,9.9,12,87.5,12.5,50,71,40,40,40,69,310
+814,Raboot,ˈɹæbuːt,Scorbunny,Cinderace,3,3b,FALSE,FALSE,Fire,19.8,24,87.5,12.5,65,86,60,55,60,94,420
+815,Cinderace,ˈsɪndɚeɪs,Raboot,,3,3c,FALSE,FALSE,Fire,72.8,55,87.5,12.5,80,116,75,65,75,119,530
+816,Sobble,ˈsɑːbəl,,Drizzile,3,3a,FALSE,FALSE,Water,8.8,12,87.5,12.5,50,40,40,70,40,70,310
+817,Drizzile,ˈdɹɪzaɪl,Sobble,Inteleon,3,3b,FALSE,FALSE,Water,25.4,28,87.5,12.5,65,60,55,95,55,90,420
+818,Inteleon,ɪnˈtɛliːən,Drizzile,,3,3c,FALSE,FALSE,Water,99.6,75,87.5,12.5,70,85,65,125,65,120,530
+819,Skwovet,ˈskwʌːvət,,Greedent,2,2a,FALSE,FALSE,Normal,5.5,12,50,50,70,55,55,35,35,25,275
+820,Greedent,ˈɡɹiːdənt,Skwovet,,2,2b,FALSE,FALSE,Normal,13.2,24,50,50,120,95,95,55,75,20,460
+821,Rookidee,ˈɹʊkədiː,,Corvisquire,3,3a,FALSE,FALSE,Flying,4,8,50,50,38,47,35,33,35,57,245
+822,Corvisquire,ˈkɔːɹvəskwaɪɹ,Rookidee,Corviknight,3,3b,FALSE,FALSE,Flying,35.3,31,50,50,68,67,55,43,55,77,365
+823,Corviknight,ˈkɔːɹvənaɪt,Corvisquire,,3,3c,FALSE,FALSE,"Flying, Steel",165.3,87,50,50,98,87,105,53,85,67,495
+824,Blipbug,ˈblɪpbʌɡ,,Dottler,3,3a,FALSE,FALSE,Bug,17.6,16,50,50,25,20,20,25,45,45,180
+825,Dottler,ˈdɑːtlɚ,Blipbug,Orbeetle,3,3b,FALSE,FALSE,"Bug, Psychic",43,16,50,50,50,35,80,50,90,30,335
+826,Orbeetle,ˈɔɹbiːɾəl,Dottler,,3,3c,FALSE,FALSE,"Bug, Psychic",89.9,16,50,50,60,45,110,80,120,90,505
+827,Nickit,ˈnɪkət,,Thievul,2,2a,FALSE,FALSE,Dark,19.6,24,50,50,40,28,28,47,52,50,245
+828,Thievul,ˈθiːvəl,Nickit,,2,2b,FALSE,FALSE,Dark,43.9,47,50,50,70,58,58,87,92,90,455
+829,Gossifleur,ˈɡɑːsəflɚ,,Eldegoss,2,2a,FALSE,FALSE,Grass,4.9,16,50,50,40,40,60,40,60,10,250
+830,Eldegoss,ˈɛldəɡɑːs,Gossifleur,,2,2b,FALSE,FALSE,Grass,5.5,20,50,50,60,50,90,80,120,60,460
+831,Wooloo,ˈwuːluː,,Dubwool,2,2a,FALSE,FALSE,Normal,13.2,24,50,50,42,40,55,40,45,48,270
+832,Dubwool,ˈdʌbwʊl,Wooloo,,2,2b,FALSE,FALSE,Normal,94.8,51,50,50,72,80,100,60,90,88,490
+833,Chewtle,ˈtʃuːɾəl,,Drednaw,2,2a,FALSE,FALSE,Water,18.7,12,50,50,50,64,50,38,38,44,284
+834,Drednaw,ˈdɹɛdnɑː,Chewtle,,2,2b,FALSE,FALSE,"Water, Rock",254.6,39,50,50,90,115,90,48,68,74,485
+835,Yamper,ˈjæmpɚ,,Boltund,2,2a,FALSE,FALSE,Electric,29.8,12,50,50,59,45,50,40,50,26,270
+836,Boltund,ˈbɔːltənd,Yamper,,2,2b,FALSE,FALSE,Electric,75,39,50,50,69,90,60,90,60,121,490
+837,Rolycoly,ˌɹɔːliːˈkɔːliː,,Carkol,3,3a,FALSE,FALSE,Rock,26.5,12,50,50,30,40,50,40,50,30,240
+838,Carkol,ˈkɑɹkɔːl,Rolycoly,Coalossal,3,3b,FALSE,FALSE,"Rock, Fire",172,43,50,50,80,60,90,60,70,50,410
+839,Coalossal,kɔːlˈɑːsəl,Carkol,,3,3c,FALSE,FALSE,"Rock, Fire",684.5,110,50,50,110,80,120,80,90,30,510
+840,Applin,ˈæplɪn,,"Flapple, Appletun",2,2a,FALSE,FALSE,"Grass, Dragon",1.1,8,50,50,40,40,80,40,40,20,260
+841,Flapple,ˈflæpəl,Applin,,2,2b,FALSE,FALSE,"Grass, Dragon",2.2,12,50,50,70,110,80,95,60,70,485
+842,Appletun,ˈæpəltən,Applin,,2,2b,FALSE,FALSE,"Grass, Dragon",28.7,16,50,50,110,85,80,100,80,30,485
+843,Silicobra,sɪləˈkoʊbɹə,,Sandaconda,2,2a,FALSE,FALSE,Ground,16.8,87,50,50,52,57,75,35,50,46,315
+844,Sandaconda,sændəkɑːndə,Silicobra,,2,2b,FALSE,FALSE,Ground,144.4,150,50,50,72,107,125,65,70,71,510
+845,Cramorant,ˈkɹæmɚənt,,,1,1a,FALSE,FALSE,"Flying, Water",39.7,31,50,50,70,85,55,85,95,85,475
+846,Arrokuda,ˌɛrəˈkuːdə,,Barraskewda,2,2a,FALSE,FALSE,Water,2.2,20,50,50,41,63,40,40,30,66,280
+847,Barraskewda,ˌbɛrəˈskjuːdə,Arrokuda,,2,2b,FALSE,FALSE,Water,66.1,51,50,50,61,123,60,60,50,136,490
+848,Toxel,tɑːksəl,,Toxtricity,2,2a,TRUE,FALSE,"Electric, Poison",24.3,16,50,50,40,38,35,54,35,40,242
+849,Toxtricity,tɑksˈtɹɪsətiː,Toxel,,2,2b,FALSE,FALSE,"Electric, Poison",88.2,63,50,50,75,98,70,114,70,75,502
+850,Sizzlipede,ˈsɪzləpiːd,,Centiskorch,2,2a,FALSE,FALSE,"Fire, Bug",2.2,28,50,50,50,65,45,50,50,45,305
+851,Centiskorch,ˈsɛntəskɔːɹtʃ,Sizzlipede,,2,2b,FALSE,FALSE,"Fire, Bug",264.6,118,50,50,100,115,65,90,90,65,525
+852,Clobbopus,ˈklɑːbəpʊs,,Grapploct,2,2a,FALSE,FALSE,Fighting,8.8,24,50,50,50,68,60,50,50,32,310
+853,Grapploct,ˈɡɹæplɑːkt,Clobbopus,,2,2b,FALSE,FALSE,Fighting,86,63,50,50,80,118,90,70,80,42,480
+854,Sinistea,ˈsɪnəstiː,,Polteageist,2,2a,FALSE,FALSE,Ghost,0.4,4,,,40,45,45,74,54,50,308
+855,Polteageist,ˈpɔːltiːɡaɪst,Sinistea,,2,2b,FALSE,FALSE,Ghost,0.9,8,,,60,65,65,134,114,70,508
+856,Hatenna,həˈtɛnə,,Hattrem,3,3a,FALSE,FALSE,Psychic,7.5,16,0,,42,30,45,56,53,39,265
+857,Hattrem,ˈhætɹɛm,Hatenna,Hatterene,3,3b,FALSE,FALSE,Psychic,10.6,24,0,,57,40,65,86,73,49,370
+858,Hatterene,ˈhætɚiːn,Hattrem,,3,3c,FALSE,FALSE,"Psychic, Fairy",11.2,83,0,,57,90,95,136,103,29,510
+859,Impidimp,ˈɪmpɪdɪmp,,Morgrem,3,3a,FALSE,FALSE,"Dark, Fairy",12.1,16,,0,45,45,30,55,40,50,265
+860,Morgrem,ˈmɔːɹɡɹɛm,Impidimp,Grimmsnarl,3,3b,FALSE,FALSE,"Dark, Fairy",27.6,31,,0,65,60,45,75,55,70,370
+861,Grimmsnarl,ˈɡɹɪmsnɑɹl,Morgrem,,3,3c,FALSE,FALSE,"Dark, Fairy",134.5,59,,0,95,120,65,95,75,60,510
+862,Obstagoon,ˈɑːbstəɡuːn,Linoone,,3,3c,FALSE,FALSE,"Dark, Normal",101.4,63,50,50,93,90,101,60,81,95,520
+863,Perrserker,pɚˈsɝkɚ,Meowth,,2,2b,FALSE,FALSE,Steel,61.7,31,50,50,70,110,100,50,60,50,440
+864,Cursola,ˈkɝsələ,Corsola,,2,2b,FALSE,FALSE,Ghost,0.9,39,25,75,60,95,50,145,130,30,510
+865,Sirfetch'd,sɝˈfɛtʃt,Farfetch'd,,2,2b,FALSE,FALSE,Fighting,257.9,31,50,50,62,135,95,68,82,65,507
+866,Mr. Rime,ˌmɪstɚˈɹaɪm,Mr. Mime,,3,3c,FALSE,FALSE,"Ice, Psychic",128.3,59,50,50,80,85,75,110,100,70,520
+867,Runerigus,ɹuːnɛˈɹiːɡəs,Yamask,,2,2b,FALSE,FALSE,"Ground, Ghost",146.8,63,50,50,58,95,145,50,105,30,483
+868,Milcery,ˈmɪlsɚiː,,Alcremie,2,2a,FALSE,FALSE,Fairy,0.7,8,0,,45,40,40,50,61,34,270
+869,Alcremie,ˈælkɹəmiː,Milcery,,2,2b,FALSE,FALSE,Fairy,1.1,12,0,,65,60,75,110,121,64,495
+870,Falinks,ˈfeɪlɪŋks,,,1,1a,FALSE,FALSE,Fighting,136.7,118,,,65,100,100,70,60,75,470
+871,Pincurchin,pɪnˈkɚtʃən,,,1,1a,FALSE,FALSE,Electric,2.2,12,50,50,48,101,95,91,85,15,435
+872,Snom,ˈsnɑːm,,Frosmoth,2,2a,FALSE,FALSE,"Ice, Bug",8.4,12,50,50,30,25,35,45,30,20,185
+873,Frosmoth,ˈfɹɑːsmɑːθ,Snom,,2,2b,FALSE,FALSE,"Ice, Bug",92.6,51,50,50,70,65,60,125,90,65,475
+874,Stonjourner,ˈstoʊndʒɚnɚ,,,1,1a,FALSE,FALSE,Rock,1146.4,98,50,50,100,125,135,20,20,70,470
+875,Eiscue,ˈaɪskju,,,1,1a,FALSE,FALSE,Ice,196.2,55,50,50,75,80,110,65,90,50,470
+876,Indeedee,ɪnˈdiːdiː,,,1,1a,FALSE,FALSE,"Psychic, Normal",61.7,35,50,50,60,65,55,105,95,95,475
+877,Morpeko,mɔːɹˈpɛkoʊ,,,1,1a,FALSE,FALSE,"Electric, Dark",6.6,12,50,50,58,95,58,70,58,97,436
+878,Cufant,ˈkjuːfənt,,Copperajah,2,2a,FALSE,FALSE,Steel,220.5,47,50,50,72,80,49,40,49,40,330
+879,Copperajah,ˌkɑːpɚɑːʒə,Cufant,,2,2b,FALSE,FALSE,Steel,1433,118,50,50,122,130,69,80,69,30,500
+880,Dracozolt,ˈdɹækəzɔːlt,,,1,1a,FALSE,FALSE,"Electric, Dragon",418.9,71,,,90,100,90,80,70,75,505
+881,Arctozolt,ˈɑɹktəzɔːlt,,,1,1a,FALSE,FALSE,"Electric, Ice",330.7,91,,,90,100,90,90,80,55,505
+882,Dracovish,ˈdɹækəvɪʃ,,,1,1a,FALSE,FALSE,"Water, Dragon",474,91,,,90,90,100,70,80,75,505
+883,Arctovish,ˈɑɹktəvɪʃ,,,1,1a,FALSE,FALSE,"Water, Ice",385.8,79,,,90,90,100,80,90,55,505
+884,Duraludon,dɚˈælədɑn,,,1,1a,FALSE,FALSE,"Steel, Dragon",88.2,71,50,50,70,95,115,120,50,85,535
+885,Dreepy,ˈdɹiːpiː,,Drakloak,3,3a,FALSE,FALSE,"Dragon, Ghost",4.4,20,50,50,28,60,30,40,30,82,270
+886,Drakloak,ˈdɹækloʊk,Dreepy,Dragapult,3,3b,FALSE,FALSE,"Dragon, Ghost",24.3,55,50,50,68,80,50,60,50,102,410
+887,Dragapult,ˈdɹæɡəpʊlt,Drakloak,,3,3c,FALSE,FALSE,"Dragon, Ghost",110.2,118,50,50,88,120,75,100,75,142,600
+888,Zacian,ˈzɑːʃiːən,,,1,1a,FALSE,TRUE,"Fairy, Steel, Fairy",242.5,110,,,92,130,115,80,115,138,670
+889,Zamazenta,ˌzɑːməˈzɛntə,,,1,1a,FALSE,TRUE,"Fighting, Steel, Fighting",463,114,,,92,130,115,80,115,138,670
+890,Eternatus,ɪˈtɝnətəs,,,1,1a,FALSE,TRUE,"Poison, Dragon",2094.4,787,,,140,85,95,145,95,130,690
+891,Kubfu,kʌbˈfuː,,Urshifu,2,2a,FALSE,TRUE,Fighting,26.5,24,87.5,12.5,60,90,60,53,50,72,385
+892,Urshifu,ˈɝʃiːfuː,Kubfu,,2,2b,FALSE,TRUE,"Fighting, Dark, Fighting, Water",231.5,75,87.5,12.5,100,130,100,63,60,97,550
+893,Zarude,zɑːˈɹuːd,,,1,1a,FALSE,FALSE,"Dark, Grass",154.3,71,,,105,120,105,70,95,105,600
+894,Regieleki,ˌɹɛdʒiːəˈlɛkiː,,,1,1a,FALSE,TRUE,Electric,319.7,47,,,80,100,50,100,50,200,580
+895,Regidrago,ˌɹɛdʒiːˈdɹɛɪɡoʊ,,,1,1a,FALSE,TRUE,Dragon,440.9,83,,,200,100,50,100,50,80,580
+896,Glastrier,ˈɡlæstɹiːɚ,,,1,1a,FALSE,TRUE,Ice,1763.7,87,,,100,145,130,65,110,30,580
+897,Spectrier,ˈspɛktɹiːɚ,,,1,1a,FALSE,TRUE,Ghost,98.1,79,,,100,65,60,145,80,130,580
+898,Calyrex,ˈkæləɹɛks,,,1,1a,FALSE,TRUE,"Psychic, Grass, Psychic, Ice, Psychic, Ghost",17,43,,,100,80,80,80,80,80,500
+899,Wyrdeer,ˈwɪɹdɪɹ,Stantler,,2,2b,FALSE,FALSE,"Normal, Psychic",209.7,71,50,50,103,105,72,105,75,65,525
+900,Kleavor,ˈkliːvɔːɹ,Scyther,,2,2b,FALSE,FALSE,"Bug, Rock",196.2,71,50,50,70,135,95,45,70,85,500
+901,Ursaluna,ˌɝsəˈluːnə,Ursaring,,3,3c,FALSE,FALSE,"Ground, Normal",639.3,94,50,50,130,140,105,45,80,50,550
+902,Basculegion,ˌbæskjuːˈliːdʒən,Basculin,,2,2b,FALSE,FALSE,"Water, Ghost",242.5,118,50,50,120,112,65,80,75,78,530
+903,Sneasler,ˈsniːzlɚ,Sneasel,,2,2b,FALSE,FALSE,"Fighting, Poison",94.8,51,50,50,80,130,60,40,80,120,510
+904,Overqwil,ˈoʊvɚkwɪl,Qwilfish,,2,2b,FALSE,FALSE,"Dark, Poison",133.4,98,50,50,85,115,95,65,65,85,510
+905,Enamorus,ɪˈnæmɚɪs,,,1,1a,FALSE,TRUE,"Fairy, Flying",105.8,63,0,,74,115,70,135,80,106,580
+906,Sprigatito,ˌspɹɪɡəˈtiːtoʊ,,Floragato,3,3a,FALSE,FALSE,Grass,9,16,87.5,12.5,40,61,54,45,45,65,310
+907,Floragato,ˌflɔɹəˈɡɑːtoʊ,Sprigatito,Meowscarada,3,3b,FALSE,FALSE,Grass,26.9,35,87.5,12.5,61,80,63,60,63,83,410
+908,Meowscarada,miˈaʊskəˈɹɑːdə,Floragato,,3,3c,FALSE,FALSE,"Grass, Dark",68.8,59,87.5,12.5,76,110,70,81,70,123,530
+909,Fuecoco,fweɪˈkoʊkoʊ,,Crocalor,3,3a,FALSE,FALSE,Fire,21.6,16,87.5,12.5,67,45,59,63,40,36,310
+910,Crocalor,ˈkɹɑːkəlɔɹ,Fuecoco,Skeledirge,3,3b,FALSE,FALSE,Fire,67.7,39,87.5,12.5,81,55,78,90,58,49,411
+911,Skeledirge,ˈskɛlədɚdʒ,Crocalor,,3,3c,FALSE,FALSE,"Fire, Ghost",719.8,63,87.5,12.5,104,75,100,110,75,66,530
+912,Quaxly,ˈkwæksliː,,Quaxwell,3,3a,FALSE,FALSE,Water,13.4,20,87.5,12.5,55,65,45,50,45,50,310
+913,Quaxwell,ˈkwækswɛl,Quaxly,Quaquaval,3,3b,FALSE,FALSE,Water,47.4,47,87.5,12.5,70,85,65,65,60,65,410
+914,Quaquaval,ˈkwɑːkwəvɑːl,Quaxwell,,3,3c,FALSE,FALSE,"Water, Fighting",136.5,71,87.5,12.5,85,120,80,85,75,85,530
+915,Lechonk,ləˈtʃɑːnk,,Oinkologne,2,2a,FALSE,FALSE,Normal,22.5,20,50,50,54,45,40,35,45,35,254
+916,Oinkologne,ˈɔɪŋkəloʊn,Lechonk,,2,2b,FALSE,FALSE,Normal,264.6,39,50,50,110,100,75,59,80,65,489
+917,Tarountula,təˈɹaʊntʃələ,,Spidops,2,2a,FALSE,FALSE,Bug,8.8,12,50,50,35,41,45,29,40,20,210
+918,Spidops,ˈspaɪdɑps,Tarountula,,2,2b,FALSE,FALSE,Bug,36.4,39,50,50,60,79,92,52,86,35,404
+919,Nymble,ˈnɪmbəl,,Lokix,2,2a,FALSE,FALSE,Bug,2.2,8,50,50,33,46,40,21,25,45,210
+920,Lokix,ˈloʊkɪks,Nymble,,2,2b,FALSE,FALSE,"Bug, Dark",38.6,39,50,50,71,102,78,52,55,92,450
+921,Pawmi,ˈpɑːmiː,,Pawmo,3,3a,FALSE,FALSE,Electric,5.5,12,50,50,45,50,20,40,25,60,240
+922,Pawmo,ˈpɑːmoʊ,Pawmi,Pawmot,3,3b,FALSE,FALSE,"Electric, Fighting",14.3,16,50,50,60,75,40,50,40,85,350
+923,Pawmot,ˈpɑːmɑːt,Pawmo,,3,3c,FALSE,FALSE,"Electric, Fighting",90.4,35,50,50,70,115,70,70,60,105,490
+924,Tandemaus,ˈtændəmaʊs,,Maushold,2,2a,FALSE,FALSE,Normal,4,12,,,50,50,45,40,45,75,305
+925,Maushold,ˈmaʊshɔld,Tandemaus,,2,2b,FALSE,FALSE,Normal,6.2,12,,,74,75,70,65,75,111,470
+926,Fidough,ˈfaɪdoʊ,,Dachsbun,2,2a,FALSE,FALSE,Fairy,24,12,50,50,37,55,70,30,55,65,312
+927,Dachsbun,ˈdɑːksbʌn,Fidough,,2,2b,FALSE,FALSE,Fairy,32.8,20,50,50,57,80,115,50,80,95,477
+928,Smoliv,ˈsmoʊlɪv,,Dolliv,3,3a,FALSE,FALSE,"Grass, Normal",14.3,12,50,50,41,35,45,58,51,30,260
+929,Dolliv,ˈdɑːlɪv,Smoliv,Arboliva,3,3b,FALSE,FALSE,"Grass, Normal",26.2,24,50,50,52,53,60,78,78,33,354
+930,Arboliva,ɑɹˈbɑːləvə,Dolliv,,3,3c,FALSE,FALSE,"Grass, Normal",106.3,55,50,50,78,69,90,125,109,39,510
+931,Squawkabilly,ˈskwɑːkəbɪliː,,,1,1a,FALSE,FALSE,"Normal, Flying",5.3,24,50,50,82,96,51,45,51,92,417
+932,Nacli,ˈnækliː,,Naclstack,3,3a,FALSE,FALSE,Rock,35.3,16,50,50,55,55,75,35,35,25,280
+933,Naclstack,ˈnækəlstæk,Nacli,Garganacl,3,3b,FALSE,FALSE,Rock,231.5,24,50,50,60,60,100,35,65,35,355
+934,Garganacl,ɡɑːɹˈɡænəkəl,Naclstack,,3,3c,FALSE,FALSE,Rock,529.1,91,50,50,100,100,130,45,90,35,500
+935,Charcadet,tʃɑːɹkədɛt,,"Ceruledge, Armarouge",2,2a,FALSE,FALSE,Fire,23.1,24,50,50,40,50,40,50,40,35,255
+936,Armarouge,ˈɑːɹmɚuːʒ,Charcadet,,2,2b,FALSE,FALSE,"Fire, Psychic",187.4,59,50,50,85,60,100,125,80,75,525
+937,Ceruledge,səˈɹuːlɛdʒ,Charcadet,,2,2b,FALSE,FALSE,"Fire, Ghost",136.7,63,50,50,75,125,80,60,100,85,525
+938,Tadbulb,ˈtædbʊlb,,Bellibolt,2,2a,FALSE,FALSE,Electric,0.9,12,50,50,61,31,41,59,35,45,272
+939,Bellibolt,ˈbɛliːbɔlt,Tadbulb,,2,2b,FALSE,FALSE,Electric,249.1,47,50,50,109,64,91,103,83,45,495
+940,Wattrel,ˈwɑːtɹəl,,Kilowattrel,2,2a,FALSE,FALSE,"Electric, Flying",7.9,16,50,50,40,40,35,55,40,70,280
+941,Kilowattrel,ˌkiːloʊˈwɑtɹəl,Wattrel,,2,2b,FALSE,FALSE,"Electric, Flying",85.1,55,50,50,70,70,60,105,60,125,490
+942,Maschiff,ˈmæstʃɪf,,Mabosstiff,2,2a,FALSE,FALSE,Dark,35.3,20,50,50,60,78,60,40,51,51,340
+943,Mabosstiff,məˈbɑːstɪf,Maschiff,,2,2b,FALSE,FALSE,Dark,134.5,43,50,50,80,120,90,60,70,85,505
+944,Shroodle,ˈʃɹuːdəl,,Grafaiai,2,2a,FALSE,FALSE,"Poison, Normal",1.5,8,50,50,40,65,35,40,35,75,290
+945,Grafaiai,ɡɹəˈfaɪaɪ,Shroodle,,2,2b,FALSE,FALSE,"Poison, Normal",60,28,50,50,63,95,65,80,72,110,485
+946,Bramblin,ˈbɹæmblɪn,,Brambleghast,2,2a,FALSE,FALSE,"Grass, Ghost",1.3,24,50,50,40,65,30,45,35,60,275
+947,Brambleghast,ˈbɹæmbəlɡæst,Bramblin,,2,2b,FALSE,FALSE,"Grass, Ghost",13.2,47,50,50,55,115,70,80,70,90,480
+948,Toedscool,ˈtoʊdzkuːl,,Toedscruel,2,2a,FALSE,FALSE,"Ground, Grass",72.8,35,50,50,40,40,35,50,100,70,335
+949,Toedscruel,ˈtoʊdzkɹuːl,Toedscool,,2,2b,FALSE,FALSE,"Ground, Grass",127.9,75,50,50,80,70,65,80,120,100,515
+950,Klawf,ˈklɑːf,,,1,1a,FALSE,FALSE,Rock,174.2,51,50,50,70,100,115,35,55,75,450
+951,Capsakid,kæpˈsɛɪkɪd,,Scovillain,2,2a,FALSE,FALSE,Grass,6.6,12,50,50,50,62,40,62,40,50,304
+952,Scovillain,ˈskoʊvɪlən,Capsakid,,2,2b,FALSE,FALSE,"Grass, Fire",33.1,35,50,50,65,108,65,108,65,75,486
+953,Rellor,ˈɹɛlɔɹ,,Rabsca,2,2a,FALSE,FALSE,Bug,2.2,8,50,50,41,50,60,31,58,30,270
+954,Rabsca,ˈɹæbskə,Rellor,,2,2b,FALSE,FALSE,"Bug, Psychic",7.7,12,50,50,75,50,85,115,100,45,470
+955,Flittle,ˈflɪɾəl,,Espathra,2,2a,FALSE,FALSE,Psychic,3.3,8,50,50,30,35,30,55,30,75,255
+956,Espathra,ɛsˈpæθɹə,Flittle,,2,2b,FALSE,FALSE,Psychic,198.4,75,50,50,95,60,60,101,60,105,481
+957,Tinkatink,ˈtiːŋkətiːŋk,,Tinkatuff,3,3a,FALSE,FALSE,"Fairy, Steel",19.6,16,0,,50,45,45,35,64,58,297
+958,Tinkatuff,ˈtiːŋkətʌf,Tinkatink,Tinkaton,3,3b,FALSE,FALSE,"Fairy, Steel",130.3,28,0,,65,55,55,45,82,78,380
+959,Tinkaton,ˈtiːŋkətʌn,Tinkatuff,,3,3c,FALSE,FALSE,"Fairy, Steel",248.7,28,0,,85,75,77,70,105,94,506
+960,Wiglett,ˈwɪɡlət,,Wugtrio,2,2a,FALSE,FALSE,Water,4,47,50,50,10,55,25,35,25,95,245
+961,Wugtrio,wʌɡˈtɹiːoʊ,Wiglett,,2,2b,FALSE,FALSE,Water,11.9,47,50,50,35,100,50,50,70,120,425
+962,Bombirdier,ˌbɑːmˈbɝdiːɚ,,,1,1a,FALSE,FALSE,"Flying, Dark",94.6,59,50,50,70,103,85,60,85,82,485
+963,Finizen,ˈfɪnɪzən,,Palafin,2,2a,FALSE,FALSE,Water,132.7,51,50,50,70,45,40,45,40,75,315
+964,Palafin,ˈpæləfɪn,Finizen,,2,2b,FALSE,FALSE,Water,132.7,51,50,50,100,70,72,53,62,100,457
+965,Varoom,vəˈɹuːm,,Revavroom,2,2a,FALSE,FALSE,"Steel, Poison",77.2,39,50,50,45,70,63,30,45,47,300
+966,Revavroom,ˈɹɛvəvɹuːm,Varoom,,2,2b,FALSE,FALSE,"Steel, Poison",264.6,71,50,50,80,119,90,54,67,90,500
+967,Cyclizar,ˈsaɪkləzɑːɹ,,,1,1a,FALSE,FALSE,"Dragon, Normal",138.9,63,50,50,70,95,65,85,65,121,501
+968,Orthworm,ˈɔɹθwɚm,,,1,1a,FALSE,FALSE,Steel,683.4,98,50,50,70,85,145,60,55,65,480
+969,Glimmet,ˈɡlɪmət,,Glimmora,2,2a,FALSE,FALSE,"Rock, Poison",17.6,28,50,50,48,35,42,105,60,60,350
+970,Glimmora,ɡləˈmɔɹə,Glimmet,,2,2b,FALSE,FALSE,"Rock, Poison",99.2,59,50,50,83,55,90,130,81,86,525
+971,Greavard,ˈɡɹiːvɑːɹd,,Houndstone,2,2a,FALSE,FALSE,Ghost,77.2,24,50,50,50,61,60,30,55,34,290
+972,Houndstone,ˈhaʊndstoʊn,Greavard,,2,2b,FALSE,FALSE,Ghost,33.1,79,50,50,72,101,100,50,97,68,488
+973,Flamigo,fləˈmiːɡoʊ,,,1,1a,FALSE,FALSE,"Flying, Fighting",81.6,63,50,50,82,115,74,75,64,90,500
+974,Cetoddle,səˈtɑːdəl,,Cetitan,2,2a,FALSE,FALSE,Ice,99.2,47,50,50,108,68,45,30,40,43,334
+975,Cetitan,səˈtaɪtən,Cetoddle,,2,2b,FALSE,FALSE,Ice,543.2,177,50,50,170,113,65,45,55,73,521
+976,Veluza,vəˈluːzə,,,1,1a,FALSE,FALSE,"Water, Psychic",198.4,98,50,50,90,102,73,78,65,70,478
+977,Dondozo,doʊnˈdoʊnzoʊ,,,1,1a,FALSE,FALSE,Water,485,472,50,50,150,100,115,65,65,35,530
+978,Tatsugiri,ˌtɑːtsuːɡɪɹiː,,,1,1a,FALSE,FALSE,"Dragon, Water",17.6,12,50,50,68,50,60,120,95,82,475
+979,Annihilape,əˈnaɪəleɪp,Primeape,,3,3c,FALSE,FALSE,"Fighting, Ghost",123.5,47,50,50,110,115,80,50,90,90,535
+980,Clodsire,ˈklɑːdsaɪɚ,Wooper,,2,2b,FALSE,FALSE,"Poison, Ground",491.6,71,50,50,130,75,60,45,100,20,430
+981,Farigiraf,fəˈɹɪɡəɹæf,Girafarig,,2,2b,FALSE,FALSE,"Normal, Psychic",352.7,126,50,50,120,90,70,110,70,60,520
+982,Dudunsparce,dəˈdʌnspɑːɹs,Dunsparce,,2,2b,FALSE,FALSE,Normal,86.4,142,50,50,125,100,80,85,75,55,520
+983,Kingambit,kiːŋˈɡæmbɪt,Bisharp,,3,3c,FALSE,FALSE,"Dark, Steel",264.6,79,50,50,100,135,120,60,85,50,550
+984,Great Tusk,ˌɡɹɛɪt ˈtʌsk,,,1,1a,FALSE,FALSE,"Ground, Fighting",705.5,87,,,115,131,131,53,53,87,570
+985,Scream Tail,ˈskɹiːm ˌteɪl,,,1,1a,FALSE,FALSE,"Fairy, Psychic",17.6,47,,,115,65,99,65,115,111,570
+986,Brute Bonnet,ˌbɹuːt ˈbɑːnət,,,1,1a,FALSE,FALSE,"Grass, Dark",46.3,47,,,111,127,99,79,99,55,570
+987,Flutter Mane,ˈflʌɾɚ ˌmeɪn,,,1,1a,FALSE,FALSE,"Ghost, Fairy",8.8,55,,,55,55,55,135,135,135,570
+988,Slither Wing,ˈslɪðɚ ˌwiŋ,,,1,1a,FALSE,FALSE,"Bug, Fighting",202.8,126,,,85,135,79,85,105,81,570
+989,Sandy Shocks,ˈsændiː ˈʃɑːks,,,1,1a,FALSE,FALSE,"Electric, Ground",132.3,91,,,85,81,97,121,85,101,570
+990,Iron Treads,ˌaɪɹn ˈtɹɛdz,,,1,1a,FALSE,FALSE,"Ground, Steel",529.2,35,,,90,112,120,72,70,106,570
+991,Iron Bundle,ˌaɪɹn ˈbʌndəl,,,1,1a,FALSE,FALSE,"Ice, Water",24.3,24,,,56,80,114,124,60,136,570
+992,Iron Hands,ˌaɪɹn ˈhændz,,,1,1a,FALSE,FALSE,"Fighting, Electric",839.3,71,,,154,140,108,50,68,50,570
+993,Iron Jugulis,ˌaɪɹn ˈdʒʌɡjuːləs,,,1,1a,FALSE,FALSE,"Dark, Flying",244.7,51,,,94,80,86,122,80,108,570
+994,Iron Moth,ˌaɪɹn ˈmɑːθ,,,1,1a,FALSE,FALSE,"Fire, Poison",79.4,47,,,80,70,60,140,110,110,570
+995,Iron Thorns,ˌaɪɹn ˈθɔɹnz,,,1,1a,FALSE,FALSE,"Rock, Electric",668,63,,,100,134,110,70,84,72,570
+996,Frigibax,ˈfɹɪdʒɪbæks,,Arctibax,3,3a,FALSE,FALSE,"Dragon, Ice",37.5,20,50,50,65,75,45,35,45,55,320
+997,Arctibax,ˈɑɹktɪbæks,Frigibax,Baxcalibur,3,3b,FALSE,FALSE,"Dragon, Ice",66.1,31,50,50,90,95,66,45,65,62,423
+998,Baxcalibur,bæksˈkælɪbɚ,Arctibax,,3,3c,FALSE,FALSE,"Dragon, Ice",463,83,50,50,115,145,92,75,86,87,600
+999,Gimmighoul,ˈɡɪmiːɡuːl,,Gholdengo,2,2a,FALSE,FALSE,Ghost,11,12,,,45,30,70,75,70,10,300
+1000,Gholdengo,ˈɡɔldənɡoʊ,Gimmighoul,,2,2b,FALSE,FALSE,"Steel, Ghost",66.1,47,,,87,60,95,133,91,84,550
+1001,Wo-Chien,woʊˈtʃiːən,,,1,1a,FALSE,TRUE,"Dark, Grass",163.6,59,,,85,90,100,100,135,70,580
+1002,Chien-Pao,tʃiːənˈpaʊ,,,1,1a,FALSE,TRUE,"Dark, Ice",335.5,75,,,80,130,80,90,65,135,580
+1003,Ting-Lu,tiŋˈluː,,,1,1a,FALSE,TRUE,"Dark, Ground",1542.6,106,,,165,110,130,50,80,45,580
+1004,Chi-Yu,tʃiːˈjuː,,,1,1a,FALSE,TRUE,"Dark, Fire",10.8,16,,,55,80,80,145,120,100,580
+1005,Roaring Moon,ˌɹɔɹiŋ ˈmuːn,,,1,1a,FALSE,FALSE,"Dragon, Dark",837.8,79,,,105,139,71,55,101,119,590
+1006,Iron Valiant,ˌaɪɹn ˈvæljənt,,,1,1a,FALSE,FALSE,"Fairy, Fighting",77.2,55,,,74,130,90,120,60,116,590
+1007,Koraidon,kɔːɹˈaɪdɑːn,,,1,1a,FALSE,TRUE,"Fighting, Dragon",668,98,,,100,135,115,85,100,135,670
+1008,Miraidon,mɪɹˈaɪdɑːn,,,1,1a,FALSE,TRUE,"Electric, Dragon",529.1,138,,,100,85,100,135,115,135,670
